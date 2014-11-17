@@ -2,7 +2,9 @@
     "categoryAxis": {
         "axisColor": "#DADADA",
         "gridAlpha": 0.07,
-        "startOnAxis": "true"
+        "parseDates": "true",
+        "startOnAxis": "true",
+        "twoLineMode": "true"
     },
     "categoryField": "item",
     "chartCursor": {

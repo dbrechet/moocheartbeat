@@ -48,11 +48,6 @@ data_dict_name.append("legend")
 data_dict_value.append(legend_dict)
 
 # dataProvider
-# Open database connection
-db = MySQLdb.connect(host='localhost', user='mhbuser', passwd='mhb23!', db='moocheartbeat')
-
-# prepare a cursor object using cursor() method
-cursor = db.cursor()
 
 sql_item = """SELECT item 
                  FROM mhb_coursera 
@@ -156,13 +151,17 @@ item_categoryAxis_name.append("axisColor")
 item_categoryAxis_value.append("#DADADA")
 item_categoryAxis_name.append("gridAlpha")
 item_categoryAxis_value.append(0.07)
+item_categoryAxis_name.append("parseDates")
+item_categoryAxis_value.append("true")
+item_categoryAxis_name.append("twoLineMode")
+item_categoryAxis_value.append("true")
 dict_categoryAxis = dict(zip(item_categoryAxis_name, item_categoryAxis_value))
 data_dict_name.append("categoryAxis")
 data_dict_value.append(dict_categoryAxis)
 
 data_dict = dict(zip(data_dict_name, data_dict_value))
 #print json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '))
-with io.open('lecture_view_total-data.json', 'w', encoding='utf-8') as f:
+with io.open('../mhb-data/lecture_view_total-data.json', 'w', encoding='utf-8') as f:
     f.write(unicode(json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)))
 
                   
