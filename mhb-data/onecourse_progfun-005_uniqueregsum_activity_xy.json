@@ -1,0 +1,79 @@
+{
+    "dataProvider": [
+        {
+            "activity": 0,
+            "item": 1333749600.0,
+            "registrations": 1
+        },
+        {
+            "activity": 0,
+            "item": 1400796000.0,
+            "registrations": 2
+        },
+        {
+            "activity": 0,
+            "item": 1408485600.0,
+            "registrations": 5134
+        },
+        {
+            "activity": 0,
+            "item": 1408831200.0,
+            "registrations": 8428
+        },
+        {
+            "activity": 0,
+            "item": 1409436000.0,
+            "registrations": 12238
+        },
+        {
+            "activity": 0,
+            "item": 1410040800.0,
+            "registrations": 16561
+        },
+        {
+            "activity": 22880,
+            "item": 1410645600.0,
+            "registrations": 22316
+        },
+        {
+            "activity": 26609,
+            "item": 1411250400.0,
+            "registrations": 25570
+        },
+        {
+            "activity": 25381,
+            "item": 1411855200.0,
+            "registrations": 27396
+        },
+        {
+            "activity": 9264,
+            "item": 1412460000.0,
+            "registrations": 27648
+        }
+    ],
+    "graphs": [
+        {
+            "balloonText": "x:<b>[[item]]</b> y:<b>[[registrations]]</b><br>value:<b>[[activity]]</b>",
+            "bullet": "bubble",
+            "bulletBorderAlpha": 0.2,
+            "fillAlphas": 0,
+            "lineAlpha": 0,
+            "maxBulletSize": 80,
+            "valueField": "activity",
+            "xField": "item",
+            "yField": "registrations"
+        }
+    ],
+    "marginBottom": 0,
+    "marginLeft": 0,
+    "marginTop": 10,
+    "pathToImages": "http://www.amcharts.com/lib/3/images/",
+    "theme": "none",
+    "type": "xy",
+    "valueAxes": [
+        {
+            "axisAlpha": 0,
+            "position": "left"
+        }
+    ]
+}

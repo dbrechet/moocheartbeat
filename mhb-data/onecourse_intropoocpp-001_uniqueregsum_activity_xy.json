@@ -1,0 +1,104 @@
+{
+    "dataProvider": [
+        {
+            "activity": 0,
+            "item": 1400536800.0,
+            "registrations": 1
+        },
+        {
+            "activity": 0,
+            "item": 1400796000.0,
+            "registrations": 2
+        },
+        {
+            "activity": 0,
+            "item": 1405461600.0,
+            "registrations": 92
+        },
+        {
+            "activity": 0,
+            "item": 1405807200.0,
+            "registrations": 250
+        },
+        {
+            "activity": 0,
+            "item": 1406412000.0,
+            "registrations": 406
+        },
+        {
+            "activity": 0,
+            "item": 1407016800.0,
+            "registrations": 554
+        },
+        {
+            "activity": 0,
+            "item": 1407621600.0,
+            "registrations": 761
+        },
+        {
+            "activity": 0,
+            "item": 1408226400.0,
+            "registrations": 982
+        },
+        {
+            "activity": 0,
+            "item": 1408831200.0,
+            "registrations": 1254
+        },
+        {
+            "activity": 0,
+            "item": 1409436000.0,
+            "registrations": 1548
+        },
+        {
+            "activity": 0,
+            "item": 1410040800.0,
+            "registrations": 1870
+        },
+        {
+            "activity": 0,
+            "item": 1410645600.0,
+            "registrations": 2162
+        },
+        {
+            "activity": 0,
+            "item": 1411250400.0,
+            "registrations": 2462
+        },
+        {
+            "activity": 0,
+            "item": 1411855200.0,
+            "registrations": 2728
+        },
+        {
+            "activity": 0,
+            "item": 1412460000.0,
+            "registrations": 2783
+        }
+    ],
+    "graphs": [
+        {
+            "balloonText": "x:<b>[[item]]</b> y:<b>[[registrations]]</b><br>value:<b>[[activity]]</b>",
+            "bullet": "bubble",
+            "bulletBorderAlpha": 0.2,
+            "fillAlphas": 0,
+            "lineAlpha": 0,
+            "maxBulletSize": 80,
+            "valueField": "activity",
+            "xField": "item",
+            "yField": "registrations"
+        }
+    ],
+    "marginBottom": 0,
+    "marginLeft": 0,
+    "marginTop": 10,
+    "pathToImages": "http://www.amcharts.com/lib/3/images/",
+    "theme": "none",
+    "type": "xy",
+    "valueAxes": [
+        {
+            "axisAlpha": 0,
+            "position": "left"
+        }
+    ]
+}

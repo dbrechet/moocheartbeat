@@ -1,0 +1,169 @@
+{
+    "dataProvider": [
+        {
+            "activity": 0,
+            "item": 1396648800.0,
+            "registrations": 1
+        },
+        {
+            "activity": 0,
+            "item": 1396821600.0,
+            "registrations": 2917
+        },
+        {
+            "activity": 0,
+            "item": 1397340000.0,
+            "registrations": 5157
+        },
+        {
+            "activity": 0,
+            "item": 1397944800.0,
+            "registrations": 7433
+        },
+        {
+            "activity": 7554,
+            "item": 1398549600.0,
+            "registrations": 10352
+        },
+        {
+            "activity": 7503,
+            "item": 1399154400.0,
+            "registrations": 12682
+        },
+        {
+            "activity": 6863,
+            "item": 1399759200.0,
+            "registrations": 13758
+        },
+        {
+            "activity": 4715,
+            "item": 1400364000.0,
+            "registrations": 14883
+        },
+        {
+            "activity": 3765,
+            "item": 1400968800.0,
+            "registrations": 15730
+        },
+        {
+            "activity": 3424,
+            "item": 1401573600.0,
+            "registrations": 16492
+        },
+        {
+            "activity": 2876,
+            "item": 1402178400.0,
+            "registrations": 17129
+        },
+        {
+            "activity": 2720,
+            "item": 1402783200.0,
+            "registrations": 17742
+        },
+        {
+            "activity": 2865,
+            "item": 1403388000.0,
+            "registrations": 18551
+        },
+        {
+            "activity": 3322,
+            "item": 1403992800.0,
+            "registrations": 19227
+        },
+        {
+            "activity": 2055,
+            "item": 1404597600.0,
+            "registrations": 19720
+        },
+        {
+            "activity": 866,
+            "item": 1405202400.0,
+            "registrations": 19976
+        },
+        {
+            "activity": 467,
+            "item": 1406152800.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 403,
+            "item": 1406584800.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 326,
+            "item": 1407103200.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 280,
+            "item": 1407880800.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 234,
+            "item": 1408226400.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 219,
+            "item": 1408831200.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 196,
+            "item": 1409436000.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 204,
+            "item": 1410213600.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 164,
+            "item": 1410645600.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 140,
+            "item": 1411250400.0,
+            "registrations": 19978
+        },
+        {
+            "activity": 155,
+            "item": 1411941600.0,
+            "registrations": 19979
+        },
+        {
+            "activity": 58,
+            "item": 1412460000.0,
+            "registrations": 19979
+        }
+    ],
+    "graphs": [
+        {
+            "balloonText": "x:<b>[[item]]</b> y:<b>[[registrations]]</b><br>value:<b>[[activity]]</b>",
+            "bullet": "bubble",
+            "bulletBorderAlpha": 0.2,
+            "fillAlphas": 0,
+            "lineAlpha": 0,
+            "maxBulletSize": 80,
+            "valueField": "activity",
+            "xField": "item",
+            "yField": "registrations"
+        }
+    ],
+    "marginBottom": 0,
+    "marginLeft": 0,
+    "marginTop": 10,
+    "pathToImages": "http://www.amcharts.com/lib/3/images/",
+    "theme": "none",
+    "type": "xy",
+    "valueAxes": [
+        {
+            "axisAlpha": 0,
+            "position": "left"
+        }
+    ]
+}

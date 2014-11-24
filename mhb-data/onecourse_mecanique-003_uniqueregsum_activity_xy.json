@@ -1,0 +1,134 @@
+{
+    "dataProvider": [
+        {
+            "activity": 0,
+            "item": 1390172400.0,
+            "registrations": 1
+        },
+        {
+            "activity": 0,
+            "item": 1390777200.0,
+            "registrations": 3
+        },
+        {
+            "activity": 0,
+            "item": 1401832800.0,
+            "registrations": 223
+        },
+        {
+            "activity": 0,
+            "item": 1402178400.0,
+            "registrations": 356
+        },
+        {
+            "activity": 0,
+            "item": 1402783200.0,
+            "registrations": 479
+        },
+        {
+            "activity": 0,
+            "item": 1403388000.0,
+            "registrations": 617
+        },
+        {
+            "activity": 22,
+            "item": 1403992800.0,
+            "registrations": 743
+        },
+        {
+            "activity": 46,
+            "item": 1404597600.0,
+            "registrations": 878
+        },
+        {
+            "activity": 36,
+            "item": 1405202400.0,
+            "registrations": 1013
+        },
+        {
+            "activity": 23,
+            "item": 1405807200.0,
+            "registrations": 1141
+        },
+        {
+            "activity": 45,
+            "item": 1406412000.0,
+            "registrations": 1272
+        },
+        {
+            "activity": 70,
+            "item": 1407016800.0,
+            "registrations": 1537
+        },
+        {
+            "activity": 65,
+            "item": 1407621600.0,
+            "registrations": 1745
+        },
+        {
+            "activity": 59,
+            "item": 1408226400.0,
+            "registrations": 1890
+        },
+        {
+            "activity": 151,
+            "item": 1408831200.0,
+            "registrations": 2128
+        },
+        {
+            "activity": 1469,
+            "item": 1409436000.0,
+            "registrations": 2586
+        },
+        {
+            "activity": 1605,
+            "item": 1410040800.0,
+            "registrations": 3032
+        },
+        {
+            "activity": 1413,
+            "item": 1410645600.0,
+            "registrations": 3389
+        },
+        {
+            "activity": 1103,
+            "item": 1411250400.0,
+            "registrations": 3634
+        },
+        {
+            "activity": 963,
+            "item": 1411855200.0,
+            "registrations": 3815
+        },
+        {
+            "activity": 411,
+            "item": 1412460000.0,
+            "registrations": 3857
+        }
+    ],
+    "graphs": [
+        {
+            "balloonText": "x:<b>[[item]]</b> y:<b>[[registrations]]</b><br>value:<b>[[activity]]</b>",
+            "bullet": "bubble",
+            "bulletBorderAlpha": 0.2,
+            "fillAlphas": 0,
+            "lineAlpha": 0,
+            "maxBulletSize": 80,
+            "valueField": "activity",
+            "xField": "item",
+            "yField": "registrations"
+        }
+    ],
+    "marginBottom": 0,
+    "marginLeft": 0,
+    "marginTop": 10,
+    "pathToImages": "http://www.amcharts.com/lib/3/images/",
+    "theme": "none",
+    "type": "xy",
+    "valueAxes": [
+        {
+            "axisAlpha": 0,
+            "position": "left"
+        }
+    ]
+}

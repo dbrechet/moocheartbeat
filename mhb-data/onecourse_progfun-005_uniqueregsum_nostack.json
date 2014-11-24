@@ -1,0 +1,308 @@
+{
+    "categoryAxis": {
+        "axisColor": "#DADADA",
+        "gridAlpha": 0.07,
+        "parseDates": "true",
+        "startOnAxis": "true",
+        "twoLineMode": "true"
+    },
+    "categoryField": "item",
+    "chartCursor": {
+        "cursorAlpha": 0
+    },
+    "chartScrollbar": {},
+    "dataProvider": [
+        {
+            "assignment_unique": 0,
+            "forum_combined_unique": 0,
+            "forum_comment_unique": 0,
+            "forum_post_unique": 0,
+            "item": "2012-04-07",
+            "lecture_combined_unique": 0,
+            "lecture_download_unique": 0,
+            "lecture_view_unique": 0,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 0,
+            "registrations": 1,
+            "work_combined_unique": 0
+        },
+        {
+            "assignment_unique": 0,
+            "forum_combined_unique": 0,
+            "forum_comment_unique": 0,
+            "forum_post_unique": 0,
+            "item": "2014-05-23",
+            "lecture_combined_unique": 0,
+            "lecture_download_unique": 0,
+            "lecture_view_unique": 0,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 0,
+            "registrations": 2,
+            "work_combined_unique": 0
+        },
+        {
+            "assignment_unique": 0,
+            "forum_combined_unique": 0,
+            "forum_comment_unique": 0,
+            "forum_post_unique": 0,
+            "item": "2014-08-20",
+            "lecture_combined_unique": 0,
+            "lecture_download_unique": 0,
+            "lecture_view_unique": 0,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 0,
+            "registrations": 5134,
+            "work_combined_unique": 0
+        },
+        {
+            "assignment_unique": 0,
+            "forum_combined_unique": 0,
+            "forum_comment_unique": 0,
+            "forum_post_unique": 0,
+            "item": "2014-08-24",
+            "lecture_combined_unique": 0,
+            "lecture_download_unique": 0,
+            "lecture_view_unique": 0,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 0,
+            "registrations": 8428,
+            "work_combined_unique": 0
+        },
+        {
+            "assignment_unique": 0,
+            "forum_combined_unique": 0,
+            "forum_comment_unique": 0,
+            "forum_post_unique": 0,
+            "item": "2014-08-31",
+            "lecture_combined_unique": 0,
+            "lecture_download_unique": 0,
+            "lecture_view_unique": 0,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 0,
+            "registrations": 12238,
+            "work_combined_unique": 0
+        },
+        {
+            "assignment_unique": 0,
+            "forum_combined_unique": 0,
+            "forum_comment_unique": 0,
+            "forum_post_unique": 0,
+            "item": "2014-09-07",
+            "lecture_combined_unique": 0,
+            "lecture_download_unique": 0,
+            "lecture_view_unique": 0,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 0,
+            "registrations": 16561,
+            "work_combined_unique": 0
+        },
+        {
+            "assignment_unique": 2988,
+            "forum_combined_unique": 373,
+            "forum_comment_unique": 111,
+            "forum_post_unique": 346,
+            "item": "2014-09-14",
+            "lecture_combined_unique": 10959,
+            "lecture_download_unique": 1816,
+            "lecture_view_unique": 10506,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 4125,
+            "registrations": 22316,
+            "work_combined_unique": 2988
+        },
+        {
+            "assignment_unique": 4938,
+            "forum_combined_unique": 310,
+            "forum_comment_unique": 95,
+            "forum_post_unique": 284,
+            "item": "2014-09-21",
+            "lecture_combined_unique": 10097,
+            "lecture_download_unique": 1783,
+            "lecture_view_unique": 9440,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 5131,
+            "registrations": 25570,
+            "work_combined_unique": 4938
+        },
+        {
+            "assignment_unique": 5404,
+            "forum_combined_unique": 345,
+            "forum_comment_unique": 134,
+            "forum_post_unique": 301,
+            "item": "2014-09-28",
+            "lecture_combined_unique": 8756,
+            "lecture_download_unique": 1562,
+            "lecture_view_unique": 8108,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 4468,
+            "registrations": 27396,
+            "work_combined_unique": 5404
+        },
+        {
+            "assignment_unique": 2034,
+            "forum_combined_unique": 102,
+            "forum_comment_unique": 33,
+            "forum_post_unique": 94,
+            "item": "2014-10-05",
+            "lecture_combined_unique": 3453,
+            "lecture_download_unique": 571,
+            "lecture_view_unique": 3110,
+            "quiz_exam_unique": 0,
+            "quiz_homework_unique": 0,
+            "quiz_quiz_unique": 0,
+            "quiz_survey_unique": 0,
+            "quiz_video_unique": 1388,
+            "registrations": 27648,
+            "work_combined_unique": 2034
+        }
+    ],
+    "graphs": [
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "registrations",
+            "valueField": "registrations"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "assignment_unique",
+            "valueField": "assignment_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "forum_combined_unique",
+            "valueField": "forum_combined_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "forum_comment_unique",
+            "valueField": "forum_comment_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "forum_post_unique",
+            "valueField": "forum_post_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "lecture_combined_unique",
+            "valueField": "lecture_combined_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "lecture_download_unique",
+            "valueField": "lecture_download_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "lecture_view_unique",
+            "valueField": "lecture_view_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "quiz_exam_unique",
+            "valueField": "quiz_exam_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "quiz_homework_unique",
+            "valueField": "quiz_homework_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "quiz_quiz_unique",
+            "valueField": "quiz_quiz_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "quiz_survey_unique",
+            "valueField": "quiz_survey_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "quiz_video_unique",
+            "valueField": "quiz_video_unique"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "work_combined_unique",
+            "valueField": "work_combined_unique"
+        }
+    ],
+    "legend": {
+        "equalWidths": "false",
+        "periodValueText": "total: [[value.sum]]",
+        "position": "left",
+        "valueAlign": "left",
+        "valueWidth": 100
+    },
+    "marginBottom": 0,
+    "marginLeft": 0,
+    "marginTop": 10,
+    "pathToImages": "http://www.amcharts.com/lib/3/images/",
+    "plotAreaBorderAlpha": 0,
+    "theme": "none",
+    "type": "serial",
+    "valueAxes": [
+        {
+            "gridAlpha": 0.07,
+            "position": "left",
+            "stackType": "regular",
+            "title": "progfun-005"
+        }
+    ]
+}

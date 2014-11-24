@@ -1,0 +1,369 @@
+{
+    "dataProvider": [
+        {
+            "activity": 0,
+            "item": 1352329200.0,
+            "registrations": 7
+        },
+        {
+            "activity": 0,
+            "item": 1352415600.0,
+            "registrations": 24
+        },
+        {
+            "activity": 0,
+            "item": 1352588400.0,
+            "registrations": 140
+        },
+        {
+            "activity": 0,
+            "item": 1353193200.0,
+            "registrations": 245
+        },
+        {
+            "activity": 0,
+            "item": 1353798000.0,
+            "registrations": 378
+        },
+        {
+            "activity": 0,
+            "item": 1354402800.0,
+            "registrations": 457
+        },
+        {
+            "activity": 0,
+            "item": 1355094000.0,
+            "registrations": 503
+        },
+        {
+            "activity": 0,
+            "item": 1355612400.0,
+            "registrations": 567
+        },
+        {
+            "activity": 0,
+            "item": 1356217200.0,
+            "registrations": 610
+        },
+        {
+            "activity": 0,
+            "item": 1356994800.0,
+            "registrations": 648
+        },
+        {
+            "activity": 0,
+            "item": 1357426800.0,
+            "registrations": 702
+        },
+        {
+            "activity": 0,
+            "item": 1358031600.0,
+            "registrations": 744
+        },
+        {
+            "activity": 262,
+            "item": 1358636400.0,
+            "registrations": 1094
+        },
+        {
+            "activity": 686,
+            "item": 1359241200.0,
+            "registrations": 1471
+        },
+        {
+            "activity": 979,
+            "item": 1359846000.0,
+            "registrations": 1949
+        },
+        {
+            "activity": 985,
+            "item": 1360450800.0,
+            "registrations": 2361
+        },
+        {
+            "activity": 3175,
+            "item": 1361055600.0,
+            "registrations": 3154
+        },
+        {
+            "activity": 3355,
+            "item": 1361660400.0,
+            "registrations": 3736
+        },
+        {
+            "activity": 2213,
+            "item": 1362265200.0,
+            "registrations": 3918
+        },
+        {
+            "activity": 2145,
+            "item": 1362870000.0,
+            "registrations": 4066
+        },
+        {
+            "activity": 2099,
+            "item": 1363474800.0,
+            "registrations": 4214
+        },
+        {
+            "activity": 1724,
+            "item": 1364079600.0,
+            "registrations": 4355
+        },
+        {
+            "activity": 877,
+            "item": 1364684400.0,
+            "registrations": 4471
+        },
+        {
+            "activity": 1855,
+            "item": 1365285600.0,
+            "registrations": 4571
+        },
+        {
+            "activity": 1211,
+            "item": 1365890400.0,
+            "registrations": 4664
+        },
+        {
+            "activity": 322,
+            "item": 1366495200.0,
+            "registrations": 4753
+        },
+        {
+            "activity": 241,
+            "item": 1367100000.0,
+            "registrations": 4838
+        },
+        {
+            "activity": 185,
+            "item": 1367704800.0,
+            "registrations": 4965
+        },
+        {
+            "activity": 179,
+            "item": 1368309600.0,
+            "registrations": 5089
+        },
+        {
+            "activity": 173,
+            "item": 1368914400.0,
+            "registrations": 5213
+        },
+        {
+            "activity": 144,
+            "item": 1369519200.0,
+            "registrations": 5297
+        },
+        {
+            "activity": 352,
+            "item": 1370124000.0,
+            "registrations": 5387
+        },
+        {
+            "activity": 367,
+            "item": 1370728800.0,
+            "registrations": 5474
+        },
+        {
+            "activity": 994,
+            "item": 1371333600.0,
+            "registrations": 5550
+        },
+        {
+            "activity": 106,
+            "item": 1371938400.0,
+            "registrations": 5627
+        },
+        {
+            "activity": 124,
+            "item": 1372543200.0,
+            "registrations": 5702
+        },
+        {
+            "activity": 119,
+            "item": 1373148000.0,
+            "registrations": 5775
+        },
+        {
+            "activity": 139,
+            "item": 1373752800.0,
+            "registrations": 5872
+        },
+        {
+            "activity": 154,
+            "item": 1374357600.0,
+            "registrations": 5959
+        },
+        {
+            "activity": 112,
+            "item": 1374962400.0,
+            "registrations": 6030
+        },
+        {
+            "activity": 90,
+            "item": 1375567200.0,
+            "registrations": 6096
+        },
+        {
+            "activity": 98,
+            "item": 1376172000.0,
+            "registrations": 6174
+        },
+        {
+            "activity": 114,
+            "item": 1376776800.0,
+            "registrations": 6265
+        },
+        {
+            "activity": 106,
+            "item": 1377381600.0,
+            "registrations": 6354
+        },
+        {
+            "activity": 139,
+            "item": 1377986400.0,
+            "registrations": 6449
+        },
+        {
+            "activity": 123,
+            "item": 1378591200.0,
+            "registrations": 6541
+        },
+        {
+            "activity": 159,
+            "item": 1379196000.0,
+            "registrations": 6687
+        },
+        {
+            "activity": 167,
+            "item": 1379800800.0,
+            "registrations": 6848
+        },
+        {
+            "activity": 174,
+            "item": 1380405600.0,
+            "registrations": 6987
+        },
+        {
+            "activity": 157,
+            "item": 1381010400.0,
+            "registrations": 7116
+        },
+        {
+            "activity": 164,
+            "item": 1381615200.0,
+            "registrations": 7239
+        },
+        {
+            "activity": 178,
+            "item": 1382220000.0,
+            "registrations": 7363
+        },
+        {
+            "activity": 187,
+            "item": 1382824800.0,
+            "registrations": 7515
+        },
+        {
+            "activity": 178,
+            "item": 1383433200.0,
+            "registrations": 7656
+        },
+        {
+            "activity": 166,
+            "item": 1384038000.0,
+            "registrations": 7788
+        },
+        {
+            "activity": 169,
+            "item": 1384642800.0,
+            "registrations": 7933
+        },
+        {
+            "activity": 144,
+            "item": 1385247600.0,
+            "registrations": 8044
+        },
+        {
+            "activity": 144,
+            "item": 1385852400.0,
+            "registrations": 8167
+        },
+        {
+            "activity": 124,
+            "item": 1386457200.0,
+            "registrations": 8260
+        },
+        {
+            "activity": 134,
+            "item": 1387062000.0,
+            "registrations": 8357
+        },
+        {
+            "activity": 147,
+            "item": 1387666800.0,
+            "registrations": 8461
+        },
+        {
+            "activity": 173,
+            "item": 1388271600.0,
+            "registrations": 8559
+        },
+        {
+            "activity": 111,
+            "item": 1388876400.0,
+            "registrations": 8583
+        },
+        {
+            "activity": 86,
+            "item": 1389740400.0,
+            "registrations": 8586
+        },
+        {
+            "activity": 59,
+            "item": 1390086000.0,
+            "registrations": 8601
+        },
+        {
+            "activity": 40,
+            "item": 1390690800.0,
+            "registrations": 8614
+        },
+        {
+            "activity": 41,
+            "item": 1391295600.0,
+            "registrations": 8623
+        },
+        {
+            "activity": 11,
+            "item": 1391900400.0,
+            "registrations": 8628
+        }
+    ],
+    "graphs": [
+        {
+            "balloonText": "x:<b>[[item]]</b> y:<b>[[registrations]]</b><br>value:<b>[[activity]]</b>",
+            "bullet": "bubble",
+            "bulletBorderAlpha": 0.2,
+            "fillAlphas": 0,
+            "lineAlpha": 0,
+            "maxBulletSize": 80,
+            "valueField": "activity",
+            "xField": "item",
+            "yField": "registrations"
+        }
+    ],
+    "marginBottom": 0,
+    "marginLeft": 0,
+    "marginTop": 10,
+    "pathToImages": "http://www.amcharts.com/lib/3/images/",
+    "theme": "none",
+    "type": "xy",
+    "valueAxes": [
+        {
+            "axisAlpha": 0,
+            "position": "left"
+        }
+    ]
+}
