@@ -1,10 +1,10 @@
 #!/usr/bin/env python
-#title           :mhb_createjson_onecourse_uniqueregsum_activity_xy.py
+#title           :mhb_createjson_onecourse_uniqueregsum_ratio_xy.py
 #description     :This will make a query to the database and create a json file to store the data. The data is all interaction in one session.
 #author          :dbrechet
 #date            :20141014
 #version         :0.1
-#usage           :python mhb_createjson_onecourse_uniqueregsum_activity_xy.py
+#usage           :python mhb_createjson_onecourse_uniqueregsum_ratio_xy.py
 #notes           :
 #python_version  :2.7.6  
 #==============================================================================
@@ -169,41 +169,62 @@ for row_session in rows_session:
     #                  WHERE session='"""+data_session+"' ORDER BY item ASC"
     sql_item = """SELECT item, registrations, assignment_unique + forum_comment_unique + forum_post_unique + 
                         lecture_download_unique + lecture_view_unique + quiz_exam_unique + quiz_homework_unique + 
-                      quiz_quiz_unique + quiz_survey_unique + quiz_video_unique + work_combined_unique as activity
+                      quiz_quiz_unique + quiz_survey_unique + quiz_video_unique + work_combined_unique as activity,     
+                      assignment_total/assignment_unique as assignment_ratio, 
+                      forum_comment_total/forum_comment_unique as forum_comment_ratio, 
+                      forum_post_total/forum_post_unique as forum_post_ratio, 
+                      lecture_download_total/lecture_download_unique as lecture_download_ratio, 
+                      lecture_view_total/lecture_view_unique as lecture_view_ratio, 
+                      quiz_exam_total/quiz_exam_unique as quiz_exam_ratio, 
+                      quiz_homework_total/quiz_homework_unique as quiz_homework_ratio, 
+                      quiz_quiz_total/quiz_quiz_unique as quiz_quiz_ratio, 
+                      quiz_survey_total/quiz_survey_unique as quiz_survey_ratio, 
+                      quiz_video_total/quiz_video_unique as quiz_video_ratio
                       FROM mhb_coursera 
                       WHERE session='"""+data_session+"' ORDER BY item ASC"
 
     cursor.execute(sql_item)
     rows = cursor.fetchall()
     columns = list( [d[0].decode('utf8') for d in cursor.description] )
-    columns[0] = data_session + '_item'
-    columns[1] = data_session + '_registrations'
-    columns[2] = data_session + '_activity'
-    columns.append(data_session + '_session')
-    columns.append(data_session + '_date')
+    columns_n = []
+    columns_n.append(data_session + '_item') #0
+    columns_n.append(data_session + '_registrations') #1
+    columns_n.append(data_session + '_activity') #2
+    columns_n.append(data_session + '_ratio') #3
+    columns_n.append(data_session + '_session') #4
+    columns_n.append(data_session + '_date') #5
     #columns.append("activity_rel")
-    columns = tuple(columns)
+    columns_n = tuple(columns_n)
     
     regs = 0 
+    
     for row in rows:
+        row_n = []
         row = list(row)
+        row_n = list(row_n)
         r_date = row[0].isoformat()
-        row[0] = mktime(row[0].timetuple())
+        row_n.append(mktime(row[0].timetuple())) #0
         regs = regs + row[1]
-        row[1] = regs
-        diff_ract = regs-row[2]
-        ract = regs - diff_ract
-        regact = regs - ract
-        #row.append(regact)
-        rcnt = len(row) 
-        cnt = rcnt -1
-        while (cnt > 0):
-            row[cnt]= int(row[cnt])
-            cnt = cnt - 1
-        row.append(data_session)
-        row.append(r_date)
+        row_n.append(regs) #1
+        row_n.append(row[2]) #2
+        nvrow = 0
+        for row_c in row:
+            
+            if row_c != row[0]:
+                if row_c is None:
+                    row_c = 0
+                row_c= float(row_c)
+                nvrow = nvrow + row_c 
+        nvrow = nvrow - row[1] - row[2]
+        row_n.append (round(nvrow,2)) #3
+        row_n[1]= int(row_n[1])
+        row_n[2]= int(row_n[2])
+        row_n.append(data_session) #4
+        row_n.append(r_date) #5
+        row_n = tuple(row_n)
         row = tuple(row)
-        datadict.append(dict(zip(columns, row)))    
+        #print row_n
+        datadict.append(dict(zip(columns_n, row_n)))    
     
     
 
@@ -213,17 +234,17 @@ for row_session in rows_session:
     #            item_graph_name.append("id")
     #            item_graph_value.append("g_reg")
     item_graph_name.append("balloonText")
-    item_graph_value.append("Name:<b>[["+columns[3]+"]]</b><br>Date:<b>[["+columns[4]+"]]</b><br>Regs:<b>[["+columns[1]+"]]</b><br>Act:<b>[["+columns[2]+"]]</b>")
+    item_graph_value.append("Name:<b>[["+columns_n[4]+"]]</b><br>Date:<b>[["+columns_n[5]+"]]</b><br>Regs:<b>[["+columns_n[1]+"]]</b><br>Act:<b>[["+columns_n[2]+"]]</b><br>Ratio:<b>[["+columns_n[3]+"]]</b>")
     item_graph_name.append("bullet")
     item_graph_value.append("bubble")
     item_graph_name.append("lineAlpha")
     item_graph_value.append(0.4)
     item_graph_name.append("valueField")
-    item_graph_value.append(columns[2])
+    item_graph_value.append(columns_n[3])
     item_graph_name.append("xField")
-    item_graph_value.append(columns[0])
+    item_graph_value.append(columns_n[0])
     item_graph_name.append("yField")
-    item_graph_value.append(columns[1])
+    item_graph_value.append(columns_n[1])
     item_graph_name.append("fillAlphas")
     item_graph_value.append(0)
     item_graph_name.append("bulletBorderAlpha")
@@ -247,7 +268,7 @@ for row_session in rows_session:
     #        item_graph_name.append("stackable")
     #        item_graph_value.append("false")
     item_graph_name.append("title")
-    item_graph_value.append(row[3])
+    item_graph_value.append(row_n[4])
     #        item_graph_name.append("valueField")
     #        item_graph_value.append(row_ses)
     dict_graph = dict(zip(item_graph_name,item_graph_value))
@@ -261,23 +282,24 @@ data_dict_value.append(datadict)
 
 
 data_dict = dict(zip(data_dict_name, data_dict_value))
+#print data_dict
 #print json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '))
-datafilename = '../mhb-data/uniqueregsum_activity_xy.json'
+datafilename = '../mhb-data/uniqueregsum_ratio_xy.json'
 with io.open(datafilename, 'w', encoding='utf-8') as fd:
     fd.write(unicode(json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)))
-jsfilename ='../mhb-js/uniqueregsum_activity_xy.js'
+jsfilename ='../mhb-js/uniqueregsum_ratio_xy.js'
 jsmessage = """
-    var data = d3.json("../mhb-data/uniqueregsum_activity_xy.json", function(error, data){
+    var data = d3.json("../mhb-data/uniqueregsum_ratio_xy.json", function(error, data){
     var chart = AmCharts.makeChart("chartdiv", data);
     });"""
 with io.open(jsfilename, 'w', encoding='utf-8') as fj:
     fj.write(unicode(jsmessage))
-htmlfilename = '../test-uniqueregsum_activity_xy.html'
+htmlfilename = '../test-uniqueregsum_ratio_xy.html'
 htmlmessage = """
 <!DOCTYPE html>
 <html>
     <head>
-        <title>uniqueregsum_activity_xy| amCharts</title>
+        <title>uniqueregsum_ratio_xy| amCharts</title>
         <meta name="description" content="chart created using amCharts live editor" />
 
         <!-- amCharts javascript sources -->
@@ -287,7 +309,7 @@ htmlmessage = """
         <script type="text/javascript" src="mhb-libscripts/d3.min.js"></script>
 
         <!-- amCharts javascript code -->
-        <script type="text/javascript" src="mhb-js/uniqueregsum_activity_xy.js"></script>
+        <script type="text/javascript" src="mhb-js/uniqueregsum_ratio_xy.js"></script>
         <link rel="stylesheet" type="text/css" href="mhb-css/registration-chartered.css" media="screen" />
     </head>
     <body>
