@@ -22,13 +22,23 @@ from array import *
 # Create dict structure of the json file.
 data_dict_name =[]
 data_dict_value = []
-# genneral info 
+# general info 
 data_dict_name.append("type")
 data_dict_value.append("serial")
 data_dict_name.append("theme")
 data_dict_value.append("none")
 data_dict_name.append("pathToImages")
 data_dict_value.append("http://www.amcharts.com/lib/3/images/")
+data_dict_name.append("categoryField")
+data_dict_value.append("item")
+data_dict_name.append("plotAreaBorderAlpha")
+data_dict_value.append(0)
+data_dict_name.append("marginTop")
+data_dict_value.append(10)
+data_dict_name.append("marginLeft")
+data_dict_value.append(0)
+data_dict_name.append("marginBottom")
+data_dict_value.append(0)
 
 #legend
 item_name = []
@@ -116,15 +126,6 @@ for row_ses in rows_sessions:
 data_dict_name.append("graphs")
 data_dict_value.append(dict_graphs)
 
-data_dict_name.append("plotAreaBorderAlpha")
-data_dict_value.append(0)
-data_dict_name.append("marginTop")
-data_dict_value.append(10)
-data_dict_name.append("marginLeft")
-data_dict_value.append(0)
-data_dict_name.append("marginBottom")
-data_dict_value.append(0)
-
 #"chartScrollbar"
 item_chartScrollbar_name = []
 item_chartScrollbar_value = []
@@ -138,9 +139,6 @@ item_chartCursor_value = [0]
 dict_chartCursor = dict(zip(item_chartCursor_name, item_chartCursor_value))
 data_dict_name.append("chartCursor")
 data_dict_value.append(dict_chartCursor)
-
-data_dict_name.append("categoryField")
-data_dict_value.append("item")
 
 #"categoryAxis"
 item_categoryAxis_name = []

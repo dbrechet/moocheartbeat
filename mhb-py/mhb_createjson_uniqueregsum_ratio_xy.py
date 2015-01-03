@@ -284,17 +284,17 @@ data_dict_value.append(datadict)
 data_dict = dict(zip(data_dict_name, data_dict_value))
 #print data_dict
 #print json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '))
-datafilename = '../mhb-data/uniqueregsum_ratio_xy.json'
+datafilename = 'mhb-data/uniqueregsum_ratio_xy.json'
 with io.open(datafilename, 'w', encoding='utf-8') as fd:
     fd.write(unicode(json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)))
-jsfilename ='../mhb-js/uniqueregsum_ratio_xy.js'
+jsfilename ='mhb-js/uniqueregsum_ratio_xy.js'
 jsmessage = """
-    var data = d3.json("../mhb-data/uniqueregsum_ratio_xy.json", function(error, data){
+    var data = d3.json("mhb-data/uniqueregsum_ratio_xy.json", function(error, data){
     var chart = AmCharts.makeChart("chartdiv", data);
     });"""
 with io.open(jsfilename, 'w', encoding='utf-8') as fj:
     fj.write(unicode(jsmessage))
-htmlfilename = '../test-uniqueregsum_ratio_xy.html'
+htmlfilename = 'test-uniqueregsum_ratio_xy.html'
 htmlmessage = """
 <!DOCTYPE html>
 <html>

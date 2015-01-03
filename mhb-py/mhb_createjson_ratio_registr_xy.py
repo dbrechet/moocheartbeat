@@ -215,17 +215,17 @@ data_dict_value.append(dict_categoryAxis)
 
 data_dict = dict(zip(data_dict_name, data_dict_value))
 #print json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '))
-with io.open('../mhb-data/courses-ratio-registr.json', 'w', encoding='utf-8') as f:
+with io.open('mhb-data/courses-ratio-registr.json', 'w', encoding='utf-8') as f:
     f.write(unicode(json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)))
 
-jsfilename ='../mhb-js/courses-ratio-registr.js'
+jsfilename ='mhb-js/courses-ratio-registr.js'
 jsmessage = """
-        var data = d3.json("../mhb-data/courses-ratio-registr.json", function(error, data){
+        var data = d3.json("mhb-data/courses-ratio-registr.json", function(error, data){
         var chart = AmCharts.makeChart("chartdiv", data);
         });"""
 with io.open(jsfilename, 'w', encoding='utf-8') as fj:
     fj.write(unicode(jsmessage))
-htmlfilename = '../test-courses-ratio-registr.html'
+htmlfilename = 'test-courses-ratio-registr.html'
 htmlmessage = """
     <!DOCTYPE html>
     <html>

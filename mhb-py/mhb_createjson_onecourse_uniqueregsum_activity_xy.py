@@ -239,13 +239,15 @@ for row_session in rows_session:
     data_dict_name.append("graphs")
     data_dict_value.append(dict_graphs)
 
-
-
     data_dict = dict(zip(data_dict_name, data_dict_value))
     #print json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '))
+    
+    # create the json file.
     datafilename = '../mhb-data/onecourse_'+data_session+'_uniqueregsum_activity_xy.json'
     with io.open(datafilename, 'w', encoding='utf-8') as fd:
         fd.write(unicode(json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)))
+    
+    # create the js file.
     jsfilename ='../mhb-js/onecourse_'+data_session+'_uniqueregsum_activity_xy.js'
     jsmessage = """
         var data = d3.json("../mhb-data/onecourse_"""+data_session+"""_uniqueregsum_activity_xy.json", function(error, data){
@@ -253,13 +255,15 @@ for row_session in rows_session:
         });"""
     with io.open(jsfilename, 'w', encoding='utf-8') as fj:
         fj.write(unicode(jsmessage))
+    
+    # create the html file. 
     htmlfilename = '../test-onecourse_'+data_session+'_uniqueregsum_activity_xy.html'
     htmlmessage = """
     <!DOCTYPE html>
     <html>
 	   <head>
             <title>uniqueregsum_activity_xy """+data_session+""" | amCharts</title>
-            <meta name="description" content="chart created using amCharts live editor" />
+            <meta name="description" content="chart created using amCharts" />
 
             <!-- amCharts javascript sources -->
             <script type="text/javascript" src="mhb-libscripts/amcharts.js"></script>
@@ -279,9 +283,6 @@ for row_session in rows_session:
     
     with io.open(htmlfilename, 'w', encoding='utf-8') as fh:
         fh.write(unicode(htmlmessage))
-    
-                  
-#data_dict_name.append()
-#data_dict_value.append()
-# disconnect from server
+
+# disconnect from db server
 db.close()

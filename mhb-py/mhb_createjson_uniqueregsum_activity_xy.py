@@ -58,7 +58,7 @@ data_dict_value.append(0)
 #data_dict_name.append("categoryField")
 #data_dict_value.append("item")
 data_dict_name.append("startDuration")
-data_dict_value.append(1.5)
+data_dict_value.append(0.5)
 
 #"chartScrollbar"
 item_chartScrollbar_name = []
@@ -89,20 +89,22 @@ data_dict_value.append(dict_chartCursor)
 #"categoryAxis"
 item_categoryAxis_name = []
 item_categoryAxis_value = []
-#item_categoryAxis_name.append("startOnAxis")
-#item_categoryAxis_value.append("true")
-#item_categoryAxis_name.append("axisColor")
-#item_categoryAxis_value.append("#DADADA")
-#item_categoryAxis_name.append("gridAlpha")
-#item_categoryAxis_value.append(0.07)
-#item_categoryAxis_name.append("parseDates")
-#item_categoryAxis_value.append("true")
-#item_categoryAxis_name.append("twoLineMode")
-#item_categoryAxis_value.append("true")
-#item_categoryAxis_name.append("minPeriod")
-#item_categoryAxis_value.append("7DD")
+item_categoryAxis_name.append("startOnAxis")
+item_categoryAxis_value.append("true")
+item_categoryAxis_name.append("axisColor")
+item_categoryAxis_value.append("#DADADA")
+item_categoryAxis_name.append("gridAlpha")
+item_categoryAxis_value.append(0.07)
+item_categoryAxis_name.append("categoryFunction")
+item_categoryAxis_value.append("formatCategory")
+item_categoryAxis_name.append("parseDates")
+item_categoryAxis_value.append("true")
+item_categoryAxis_name.append("twoLineMode")
+item_categoryAxis_value.append("true")
+item_categoryAxis_name.append("minPeriod")
+item_categoryAxis_value.append("7DD")
 item_categoryAxis_name.append("labelsEnabled")
-item_categoryAxis_value.append("false")
+item_categoryAxis_value.append("true")
     
 dict_categoryAxis = dict(zip(item_categoryAxis_name, item_categoryAxis_value))
 #data_dict_name.append("categoryAxis")
@@ -216,8 +218,14 @@ for row_session in rows_session:
     item_graph_value.append("Name:<b>[["+columns[3]+"]]</b><br>Date:<b>[["+columns[4]+"]]</b><br>Regs:<b>[["+columns[1]+"]]</b><br>Act:<b>[["+columns[2]+"]]</b>")
     item_graph_name.append("bullet")
     item_graph_value.append("bubble")
-    item_graph_name.append("lineAlpha")
+    item_graph_name.append("bulletAlpha")
+    item_graph_value.append(0.2)
+    item_graph_name.append("bulletBorderThickness")
+    item_graph_value.append(1)
+    item_graph_name.append("bulletBorderAlpha")
     item_graph_value.append(0.4)
+    item_graph_name.append("lineAlpha")
+    item_graph_value.append(0.2)
     item_graph_name.append("valueField")
     item_graph_value.append(columns[2])
     item_graph_name.append("xField")
@@ -226,10 +234,8 @@ for row_session in rows_session:
     item_graph_value.append(columns[1])
     item_graph_name.append("fillAlphas")
     item_graph_value.append(0)
-    item_graph_name.append("bulletBorderAlpha")
-    item_graph_value.append(0.2)
     item_graph_name.append("maxBulletSize")
-    item_graph_value.append(80)        
+    item_graph_value.append(100)        
     #        item_graph_name.append("balloonText")
     #        item_graph_value.append("<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>")
     #        item_graph_name.append("fillAlphas")
@@ -262,17 +268,28 @@ data_dict_value.append(datadict)
 
 data_dict = dict(zip(data_dict_name, data_dict_value))
 #print json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '))
-datafilename = '../mhb-data/uniqueregsum_activity_xy.json'
+datafilename = 'mhb-data/uniqueregsum_activity_xy.json'
 with io.open(datafilename, 'w', encoding='utf-8') as fd:
     fd.write(unicode(json.dumps(data_dict, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)))
-jsfilename ='../mhb-js/uniqueregsum_activity_xy.js'
+jsfilename ='mhb-js/uniqueregsum_activity_xy.js'
 jsmessage = """
-    var data = d3.json("../mhb-data/uniqueregsum_activity_xy.json", function(error, data){
+    var data = d3.json("mhb-data/uniqueregsum_activity_xy.json", function(error, data){
     var chart = AmCharts.makeChart("chartdiv", data);
-    });"""
+    function formatCategory (value, formatedValue, categoryAxis){
+        dt = new Date(value*1000);
+        y = dt.getFullYear();
+        m = dt.getMonth();
+        d = dt.getDate();
+        ndt = dt.toISOString();
+        ndt = ndt.substr(0,10);
+        return ndt;
+    }
+    });
+    
+    """
 with io.open(jsfilename, 'w', encoding='utf-8') as fj:
     fj.write(unicode(jsmessage))
-htmlfilename = '../test-uniqueregsum_activity_xy.html'
+htmlfilename = 'test-uniqueregsum_activity_xy.html'
 htmlmessage = """
 <!DOCTYPE html>
 <html>
