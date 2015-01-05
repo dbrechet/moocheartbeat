@@ -1,0 +1,702 @@
+{
+    "categoryAxis": {
+        "axisColor": "#DADADA",
+        "gridAlpha": 0.07,
+        "minPeriod": "7DD",
+        "parseDates": "true",
+        "startOnAxis": "true",
+        "twoLineMode": "true"
+    },
+    "categoryField": "item",
+    "chartCursor": {
+        "cursorPosition": "mouse"
+    },
+    "chartScrollbar": {
+        "autoGridCount": "true",
+        "graph": "g_reg",
+        "scrollbarHeight": 40
+    },
+    "dataProvider": [
+        {
+            "activity": 0,
+            "activity_rel": 863,
+            "item": "2013-02-07",
+            "mean_activity": 0,
+            "registrations": 863
+        },
+        {
+            "activity": 0,
+            "activity_rel": 1423,
+            "item": "2013-02-10",
+            "mean_activity": 0,
+            "registrations": 1423
+        },
+        {
+            "activity": 0,
+            "activity_rel": 1941,
+            "item": "2013-02-17",
+            "mean_activity": 0,
+            "registrations": 1941
+        },
+        {
+            "activity": 0,
+            "activity_rel": 2529,
+            "item": "2013-02-24",
+            "mean_activity": 0,
+            "registrations": 2529
+        },
+        {
+            "activity": 0,
+            "activity_rel": 2891,
+            "item": "2013-03-03",
+            "mean_activity": 0,
+            "registrations": 2891
+        },
+        {
+            "activity": 0,
+            "activity_rel": 3220,
+            "item": "2013-03-10",
+            "mean_activity": 0,
+            "registrations": 3220
+        },
+        {
+            "activity": 0,
+            "activity_rel": 3523,
+            "item": "2013-03-17",
+            "mean_activity": 0,
+            "registrations": 3523
+        },
+        {
+            "activity": 0,
+            "activity_rel": 3869,
+            "item": "2013-03-24",
+            "mean_activity": 0,
+            "registrations": 3869
+        },
+        {
+            "activity": 0,
+            "activity_rel": 4162,
+            "item": "2013-03-31",
+            "mean_activity": 0,
+            "registrations": 4162
+        },
+        {
+            "activity": 0,
+            "activity_rel": 4456,
+            "item": "2013-04-07",
+            "mean_activity": 0,
+            "registrations": 4456
+        },
+        {
+            "activity": 0,
+            "activity_rel": 4722,
+            "item": "2013-04-14",
+            "mean_activity": 0,
+            "registrations": 4722
+        },
+        {
+            "activity": 0,
+            "activity_rel": 4983,
+            "item": "2013-04-21",
+            "mean_activity": 0,
+            "registrations": 4983
+        },
+        {
+            "activity": 0,
+            "activity_rel": 5279,
+            "item": "2013-04-28",
+            "mean_activity": 0,
+            "registrations": 5279
+        },
+        {
+            "activity": 0,
+            "activity_rel": 5612,
+            "item": "2013-05-05",
+            "mean_activity": 0,
+            "registrations": 5612
+        },
+        {
+            "activity": 0,
+            "activity_rel": 5925,
+            "item": "2013-05-12",
+            "mean_activity": 0,
+            "registrations": 5925
+        },
+        {
+            "activity": 0,
+            "activity_rel": 6240,
+            "item": "2013-05-19",
+            "mean_activity": 0,
+            "registrations": 6240
+        },
+        {
+            "activity": 0,
+            "activity_rel": 6529,
+            "item": "2013-05-26",
+            "mean_activity": 0,
+            "registrations": 6529
+        },
+        {
+            "activity": 0,
+            "activity_rel": 6816,
+            "item": "2013-06-02",
+            "mean_activity": 0,
+            "registrations": 6816
+        },
+        {
+            "activity": 0,
+            "activity_rel": 7215,
+            "item": "2013-06-09",
+            "mean_activity": 0,
+            "registrations": 7215
+        },
+        {
+            "activity": 0,
+            "activity_rel": 7564,
+            "item": "2013-06-16",
+            "mean_activity": 0,
+            "registrations": 7564
+        },
+        {
+            "activity": 0,
+            "activity_rel": 7856,
+            "item": "2013-06-23",
+            "mean_activity": 0,
+            "registrations": 7856
+        },
+        {
+            "activity": 0,
+            "activity_rel": 8227,
+            "item": "2013-06-30",
+            "mean_activity": 0,
+            "registrations": 8227
+        },
+        {
+            "activity": 0,
+            "activity_rel": 8574,
+            "item": "2013-07-07",
+            "mean_activity": 0,
+            "registrations": 8574
+        },
+        {
+            "activity": 0,
+            "activity_rel": 9019,
+            "item": "2013-07-14",
+            "mean_activity": 0,
+            "registrations": 9019
+        },
+        {
+            "activity": 0,
+            "activity_rel": 9357,
+            "item": "2013-07-21",
+            "mean_activity": 0,
+            "registrations": 9357
+        },
+        {
+            "activity": 0,
+            "activity_rel": 9731,
+            "item": "2013-07-28",
+            "mean_activity": 0,
+            "registrations": 9731
+        },
+        {
+            "activity": 0,
+            "activity_rel": 10057,
+            "item": "2013-08-04",
+            "mean_activity": 0,
+            "registrations": 10057
+        },
+        {
+            "activity": 0,
+            "activity_rel": 10417,
+            "item": "2013-08-11",
+            "mean_activity": 0,
+            "registrations": 10417
+        },
+        {
+            "activity": 0,
+            "activity_rel": 10883,
+            "item": "2013-08-18",
+            "mean_activity": 0,
+            "registrations": 10883
+        },
+        {
+            "activity": 0,
+            "activity_rel": 11704,
+            "item": "2013-08-25",
+            "mean_activity": 0,
+            "registrations": 11704
+        },
+        {
+            "activity": 0,
+            "activity_rel": 12480,
+            "item": "2013-09-01",
+            "mean_activity": 0,
+            "registrations": 12480
+        },
+        {
+            "activity": 0,
+            "activity_rel": 13182,
+            "item": "2013-09-08",
+            "mean_activity": 0,
+            "registrations": 13182
+        },
+        {
+            "activity": 5277,
+            "activity_rel": 9639,
+            "item": "2013-09-15",
+            "mean_activity": 405,
+            "registrations": 14916
+        },
+        {
+            "activity": 11950,
+            "activity_rel": 4938,
+            "item": "2013-09-22",
+            "mean_activity": 919,
+            "registrations": 16888
+        },
+        {
+            "activity": 11225,
+            "activity_rel": 6822,
+            "item": "2013-09-29",
+            "mean_activity": 863,
+            "registrations": 18047
+        },
+        {
+            "activity": 10282,
+            "activity_rel": 8420,
+            "item": "2013-10-06",
+            "mean_activity": 790,
+            "registrations": 18702
+        },
+        {
+            "activity": 9835,
+            "activity_rel": 9405,
+            "item": "2013-10-13",
+            "mean_activity": 756,
+            "registrations": 19240
+        },
+        {
+            "activity": 7818,
+            "activity_rel": 11905,
+            "item": "2013-10-20",
+            "mean_activity": 601,
+            "registrations": 19723
+        },
+        {
+            "activity": 6615,
+            "activity_rel": 13610,
+            "item": "2013-10-27",
+            "mean_activity": 508,
+            "registrations": 20225
+        },
+        {
+            "activity": 5986,
+            "activity_rel": 14674,
+            "item": "2013-11-03",
+            "mean_activity": 460,
+            "registrations": 20660
+        },
+        {
+            "activity": 4607,
+            "activity_rel": 16509,
+            "item": "2013-11-10",
+            "mean_activity": 354,
+            "registrations": 21116
+        },
+        {
+            "activity": 2946,
+            "activity_rel": 18555,
+            "item": "2013-11-17",
+            "mean_activity": 226,
+            "registrations": 21501
+        },
+        {
+            "activity": 2215,
+            "activity_rel": 19657,
+            "item": "2013-11-24",
+            "mean_activity": 170,
+            "registrations": 21872
+        },
+        {
+            "activity": 1342,
+            "activity_rel": 20868,
+            "item": "2013-12-01",
+            "mean_activity": 103,
+            "registrations": 22210
+        },
+        {
+            "activity": 887,
+            "activity_rel": 21618,
+            "item": "2013-12-08",
+            "mean_activity": 68,
+            "registrations": 22505
+        },
+        {
+            "activity": 789,
+            "activity_rel": 22006,
+            "item": "2013-12-15",
+            "mean_activity": 60,
+            "registrations": 22795
+        },
+        {
+            "activity": 625,
+            "activity_rel": 22414,
+            "item": "2013-12-22",
+            "mean_activity": 48,
+            "registrations": 23039
+        },
+        {
+            "activity": 659,
+            "activity_rel": 22658,
+            "item": "2013-12-29",
+            "mean_activity": 50,
+            "registrations": 23317
+        },
+        {
+            "activity": 749,
+            "activity_rel": 22930,
+            "item": "2014-01-05",
+            "mean_activity": 57,
+            "registrations": 23679
+        },
+        {
+            "activity": 825,
+            "activity_rel": 23276,
+            "item": "2014-01-12",
+            "mean_activity": 63,
+            "registrations": 24101
+        },
+        {
+            "activity": 931,
+            "activity_rel": 23632,
+            "item": "2014-01-19",
+            "mean_activity": 71,
+            "registrations": 24563
+        },
+        {
+            "activity": 920,
+            "activity_rel": 24001,
+            "item": "2014-01-26",
+            "mean_activity": 70,
+            "registrations": 24921
+        },
+        {
+            "activity": 867,
+            "activity_rel": 24429,
+            "item": "2014-02-02",
+            "mean_activity": 66,
+            "registrations": 25296
+        },
+        {
+            "activity": 882,
+            "activity_rel": 24746,
+            "item": "2014-02-09",
+            "mean_activity": 67,
+            "registrations": 25628
+        },
+        {
+            "activity": 1003,
+            "activity_rel": 25071,
+            "item": "2014-02-16",
+            "mean_activity": 77,
+            "registrations": 26074
+        },
+        {
+            "activity": 899,
+            "activity_rel": 25570,
+            "item": "2014-02-23",
+            "mean_activity": 69,
+            "registrations": 26469
+        },
+        {
+            "activity": 783,
+            "activity_rel": 25999,
+            "item": "2014-03-02",
+            "mean_activity": 60,
+            "registrations": 26782
+        },
+        {
+            "activity": 733,
+            "activity_rel": 26408,
+            "item": "2014-03-09",
+            "mean_activity": 56,
+            "registrations": 27141
+        },
+        {
+            "activity": 769,
+            "activity_rel": 26742,
+            "item": "2014-03-16",
+            "mean_activity": 59,
+            "registrations": 27511
+        },
+        {
+            "activity": 690,
+            "activity_rel": 27142,
+            "item": "2014-03-23",
+            "mean_activity": 53,
+            "registrations": 27832
+        },
+        {
+            "activity": 650,
+            "activity_rel": 27513,
+            "item": "2014-03-30",
+            "mean_activity": 50,
+            "registrations": 28163
+        },
+        {
+            "activity": 533,
+            "activity_rel": 27902,
+            "item": "2014-04-06",
+            "mean_activity": 41,
+            "registrations": 28435
+        },
+        {
+            "activity": 548,
+            "activity_rel": 28179,
+            "item": "2014-04-13",
+            "mean_activity": 42,
+            "registrations": 28727
+        },
+        {
+            "activity": 570,
+            "activity_rel": 28453,
+            "item": "2014-04-20",
+            "mean_activity": 43,
+            "registrations": 29023
+        },
+        {
+            "activity": 586,
+            "activity_rel": 28752,
+            "item": "2014-04-27",
+            "mean_activity": 45,
+            "registrations": 29338
+        },
+        {
+            "activity": 498,
+            "activity_rel": 29116,
+            "item": "2014-05-04",
+            "mean_activity": 38,
+            "registrations": 29614
+        },
+        {
+            "activity": 477,
+            "activity_rel": 29430,
+            "item": "2014-05-11",
+            "mean_activity": 36,
+            "registrations": 29907
+        },
+        {
+            "activity": 560,
+            "activity_rel": 29656,
+            "item": "2014-05-18",
+            "mean_activity": 43,
+            "registrations": 30216
+        },
+        {
+            "activity": 490,
+            "activity_rel": 30018,
+            "item": "2014-05-25",
+            "mean_activity": 37,
+            "registrations": 30508
+        },
+        {
+            "activity": 504,
+            "activity_rel": 30298,
+            "item": "2014-06-01",
+            "mean_activity": 38,
+            "registrations": 30802
+        },
+        {
+            "activity": 455,
+            "activity_rel": 30574,
+            "item": "2014-06-08",
+            "mean_activity": 35,
+            "registrations": 31029
+        },
+        {
+            "activity": 467,
+            "activity_rel": 30800,
+            "item": "2014-06-15",
+            "mean_activity": 35,
+            "registrations": 31267
+        },
+        {
+            "activity": 432,
+            "activity_rel": 31116,
+            "item": "2014-06-22",
+            "mean_activity": 33,
+            "registrations": 31548
+        },
+        {
+            "activity": 508,
+            "activity_rel": 31382,
+            "item": "2014-06-29",
+            "mean_activity": 39,
+            "registrations": 31890
+        },
+        {
+            "activity": 332,
+            "activity_rel": 31673,
+            "item": "2014-07-06",
+            "mean_activity": 25,
+            "registrations": 32005
+        },
+        {
+            "activity": 196,
+            "activity_rel": 31816,
+            "item": "2014-07-13",
+            "mean_activity": 15,
+            "registrations": 32012
+        },
+        {
+            "activity": 138,
+            "activity_rel": 31877,
+            "item": "2014-07-21",
+            "mean_activity": 10,
+            "registrations": 32015
+        },
+        {
+            "activity": 140,
+            "activity_rel": 31877,
+            "item": "2014-07-30",
+            "mean_activity": 10,
+            "registrations": 32017
+        },
+        {
+            "activity": 140,
+            "activity_rel": 31880,
+            "item": "2014-08-06",
+            "mean_activity": 10,
+            "registrations": 32020
+        },
+        {
+            "activity": 92,
+            "activity_rel": 31931,
+            "item": "2014-08-10",
+            "mean_activity": 7,
+            "registrations": 32023
+        },
+        {
+            "activity": 105,
+            "activity_rel": 31918,
+            "item": "2014-08-17",
+            "mean_activity": 8,
+            "registrations": 32023
+        },
+        {
+            "activity": 94,
+            "activity_rel": 31931,
+            "item": "2014-08-24",
+            "mean_activity": 7,
+            "registrations": 32025
+        },
+        {
+            "activity": 77,
+            "activity_rel": 31950,
+            "item": "2014-09-02",
+            "mean_activity": 5,
+            "registrations": 32027
+        },
+        {
+            "activity": 84,
+            "activity_rel": 31946,
+            "item": "2014-09-07",
+            "mean_activity": 6,
+            "registrations": 32030
+        },
+        {
+            "activity": 60,
+            "activity_rel": 31972,
+            "item": "2014-09-18",
+            "mean_activity": 4,
+            "registrations": 32032
+        },
+        {
+            "activity": 43,
+            "activity_rel": 31991,
+            "item": "2014-09-23",
+            "mean_activity": 3,
+            "registrations": 32034
+        },
+        {
+            "activity": 60,
+            "activity_rel": 31976,
+            "item": "2014-09-28",
+            "mean_activity": 4,
+            "registrations": 32036
+        },
+        {
+            "activity": 17,
+            "activity_rel": 32020,
+            "item": "2014-10-05",
+            "mean_activity": 1,
+            "registrations": 32037
+        }
+    ],
+    "graphs": [
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "clustered": "false",
+            "fillAlphas": 0.6,
+            "id": "g_reg",
+            "lineAlpha": 0.4,
+            "stackable": "false",
+            "title": "registrations",
+            "type": "column",
+            "valueField": "registrations"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "clustered": "false",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "stackable": "false",
+            "title": "activity",
+            "type": "column",
+            "valueField": "activity"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "clustered": "false",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "stackable": "false",
+            "title": "mean_activity",
+            "type": "column",
+            "valueField": "mean_activity"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "clustered": "false",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "stackable": "false",
+            "title": "activity_rel",
+            "type": "column",
+            "valueField": "activity_rel"
+        }
+    ],
+    "legend": {
+        "equalWidths": "false",
+        "periodValueText": "total: [[value.sum]]",
+        "position": "left",
+        "valueAlign": "left",
+        "valueWidth": 100
+    },
+    "marginBottom": 0,
+    "marginLeft": 0,
+    "marginTop": 10,
+    "mouseWheelZoomEnabled": "true",
+    "pathToImages": "http://www.amcharts.com/lib/3/images/",
+    "plotAreaBorderAlpha": 0,
+    "theme": "none",
+    "type": "serial",
+    "valueAxes": [
+        {
+            "gridAlpha": 0.07,
+            "position": "left",
+            "title": "intro-java-fr-001"
+        }
+    ]
+}

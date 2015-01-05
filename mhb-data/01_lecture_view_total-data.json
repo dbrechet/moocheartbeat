@@ -1,0 +1,2823 @@
+{
+    "categoryAxis": {
+        "axisColor": "#DADADA",
+        "gridAlpha": 0.07,
+        "parseDates": "true",
+        "startOnAxis": "true",
+        "twoLineMode": "true"
+    },
+    "categoryField": "item",
+    "chartCursor": {
+        "cursorAlpha": 0
+    },
+    "chartScrollbar": {},
+    "dataProvider": [
+        {
+            "item": "2012-04-07",
+            "progfun-005": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-07-15",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-07-17",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-07-22",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-07-29",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-08-05",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-08-12",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-08-19",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-08-26",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-09-02",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-09-09",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 0
+        },
+        {
+            "item": "2012-09-15",
+            "linearopt-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-09-16",
+            "java-fr-2013-001": 0,
+            "progfun-2012-001": 162796
+        },
+        {
+            "item": "2012-09-19",
+            "linearopt-001": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-09-23",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 153293
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-09-30",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 119234
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-10-07",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 102645
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-10-14",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 78664
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-10-21",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 93081
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-10-28",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 98297
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-11-04",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 51809
+        },
+        {
+            "analysenumerique-001": 0,
+            "item": "2012-11-08"
+        },
+        {
+            "analysenumerique-001": 0,
+            "item": "2012-11-09"
+        },
+        {
+            "analysenumerique-001": 0,
+            "dsp-001": 0,
+            "item": "2012-11-11",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 28642
+        },
+        {
+            "analysenumerique-001": 0,
+            "dsp-001": 0,
+            "item": "2012-11-18",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 13629
+        },
+        {
+            "analysenumerique-001": 0,
+            "dsp-001": 0,
+            "item": "2012-11-25",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 9379
+        },
+        {
+            "analysenumerique-001": 0,
+            "dsp-001": 2,
+            "item": "2012-12-02",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 9507
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-12-09",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 8090
+        },
+        {
+            "analysenumerique-001": 0,
+            "item": "2012-12-10"
+        },
+        {
+            "analysenumerique-001": 0,
+            "dsp-001": 0,
+            "item": "2012-12-16",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 8186
+        },
+        {
+            "item": "2012-12-20",
+            "progfun-002": 0
+        },
+        {
+            "analysenumerique-001": 0,
+            "dsp-001": 0,
+            "item": "2012-12-23",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 7182
+        },
+        {
+            "item": "2012-12-27",
+            "progfun-002": 0
+        },
+        {
+            "dsp-001": 0,
+            "item": "2012-12-30",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-002": 0
+        },
+        {
+            "analysenumerique-001": 0,
+            "item": "2013-01-01"
+        },
+        {
+            "item": "2013-01-03",
+            "progfun-2012-001": 5575
+        },
+        {
+            "analysenumerique-001": 0,
+            "dsp-001": 0,
+            "item": "2013-01-06",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0
+        },
+        {
+            "item": "2013-01-07",
+            "progfun-2012-001": 4808
+        },
+        {
+            "analysenumerique-001": 0,
+            "dsp-001": 0,
+            "item": "2013-01-13",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-2012-001": 2893
+        },
+        {
+            "item": "2013-01-15",
+            "progfun-002": 0
+        },
+        {
+            "analysenumerique-001": 368,
+            "dsp-001": 0,
+            "item": "2013-01-20",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-002": 0
+        },
+        {
+            "item": "2013-01-25",
+            "progfun-2012-001": 3089
+        },
+        {
+            "analysenumerique-001": 1048,
+            "dsp-001": 7,
+            "item": "2013-01-27",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-002": 0
+        },
+        {
+            "cpp-fr-001": 0,
+            "item": "2013-01-28"
+        },
+        {
+            "item": "2013-02-02",
+            "progfun-2012-001": 2725
+        },
+        {
+            "analysenumerique-001": 1625,
+            "dsp-001": 4,
+            "item": "2013-02-03",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-002": 0
+        },
+        {
+            "cpp-fr-001": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-02-07"
+        },
+        {
+            "item": "2013-02-09",
+            "progfun-2012-001": 2177
+        },
+        {
+            "analysenumerique-001": 1754,
+            "cpp-fr-001": 0,
+            "dsp-001": 3018,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-02-10",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 0,
+            "progfun-002": 0,
+            "progfun-2012-001": 1886
+        },
+        {
+            "analysenumerique-001": 7111,
+            "cpp-fr-001": 0,
+            "dsp-001": 66311,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-02-17",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 27842,
+            "progfun-002": 0,
+            "progfun-2012-001": 1724
+        },
+        {
+            "analysenumerique-001": 8937,
+            "cpp-fr-001": 0,
+            "dsp-001": 55093,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-02-24",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 25173,
+            "progfun-002": 0,
+            "progfun-2012-001": 1876
+        },
+        {
+            "analysenumerique-001": 8071,
+            "cpp-fr-001": 0,
+            "dsp-001": 35665,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-03-03",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 17863,
+            "progfun-002": 0,
+            "progfun-2012-001": 1477
+        },
+        {
+            "analysenumerique-001": 5406,
+            "cpp-fr-001": 0,
+            "dsp-001": 28221,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-03-10",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 14697,
+            "progfun-002": 0,
+            "progfun-2012-001": 1520
+        },
+        {
+            "analysenumerique-001": 5556,
+            "cpp-fr-001": 0,
+            "dsp-001": 24661,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-03-17",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 12264,
+            "progfun-002": 0
+        },
+        {
+            "item": "2013-03-22",
+            "progfun-2012-001": 1912
+        },
+        {
+            "analysenumerique-001": 4164,
+            "cpp-fr-001": 0,
+            "dsp-001": 20084,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-03-24",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 9491,
+            "progfun-002": 130548
+        },
+        {
+            "item": "2013-03-25",
+            "progfun-2012-001": 1527
+        },
+        {
+            "analysenumerique-001": 2415,
+            "cpp-fr-001": 0,
+            "dsp-001": 13102,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-03-31",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 5343,
+            "progfun-002": 110608
+        },
+        {
+            "item": "2013-04-03",
+            "progfun-2012-001": 1091
+        },
+        {
+            "analysenumerique-001": 4686,
+            "cpp-fr-001": 0,
+            "dsp-001": 14120,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-04-07",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 6745,
+            "progfun-002": 76711,
+            "progfun-2012-001": 942
+        },
+        {
+            "analysenumerique-001": 4717,
+            "cpp-fr-001": 0,
+            "dsp-001": 15217,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-04-14",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 4880,
+            "progfun-002": 58503,
+            "progfun-2012-001": 641
+        },
+        {
+            "analysenumerique-001": 688,
+            "cpp-fr-001": 0,
+            "dsp-001": 15175,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-04-21",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 2674,
+            "progfun-002": 55926,
+            "progfun-2012-001": 710
+        },
+        {
+            "analysenumerique-001": 535,
+            "cpp-fr-001": 0,
+            "dsp-001": 8276,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-04-28",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 2310,
+            "progfun-002": 59788,
+            "progfun-2012-001": 554
+        },
+        {
+            "analysenumerique-001": 423,
+            "cpp-fr-001": 0,
+            "dsp-001": 3298,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-05-05",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 1437,
+            "progfun-002": 58142,
+            "progfun-2012-001": 554
+        },
+        {
+            "analysenumerique-001": 393,
+            "cpp-fr-001": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-05-12",
+            "java-fr-2013-001": 0,
+            "progfun-002": 35813
+        },
+        {
+            "dsp-001": 1903,
+            "item": "2013-05-14",
+            "linearopt-001": 740,
+            "progfun-2012-001": 508
+        },
+        {
+            "analysenumerique-001": 472,
+            "cpp-fr-001": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-05-19",
+            "java-fr-2013-001": 0,
+            "progfun-002": 13588,
+            "progfun-2012-001": 556
+        },
+        {
+            "dsp-001": 1441,
+            "item": "2013-05-20",
+            "linearopt-001": 541
+        },
+        {
+            "analysenumerique-001": 520,
+            "cpp-fr-001": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-05-26",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 550,
+            "progfun-002": 8573,
+            "progfun-2012-001": 546
+        },
+        {
+            "dsp-001": 1640,
+            "item": "2013-05-28"
+        },
+        {
+            "analysenumerique-001": 2279,
+            "cpp-fr-001": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-06-02",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 734,
+            "progfun-002": 7539,
+            "progfun-2012-001": 606
+        },
+        {
+            "dsp-001": 1236,
+            "item": "2013-06-08"
+        },
+        {
+            "analysenumerique-001": 1695,
+            "cpp-fr-001": 0,
+            "dsp-001": 1366,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-06-09",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 724,
+            "progfun-002": 6253
+        },
+        {
+            "item": "2013-06-11",
+            "progfun-2012-001": 601
+        },
+        {
+            "analysenumerique-001": 2152,
+            "cpp-fr-001": 0,
+            "dsp-001": 1188,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-06-16",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 587,
+            "progfun-002": 5345,
+            "progfun-2012-001": 701
+        },
+        {
+            "analysenumerique-001": 338,
+            "cpp-fr-001": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-06-23",
+            "java-fr-2013-001": 0,
+            "progfun-002": 4832,
+            "progfun-2012-001": 782
+        },
+        {
+            "item": "2013-06-25",
+            "linearopt-001": 1233
+        },
+        {
+            "dsp-001": 1299,
+            "item": "2013-06-26"
+        },
+        {
+            "analysenumerique-001": 277,
+            "cpp-fr-001": 0,
+            "dsp-001": 1019,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-06-30",
+            "java-fr-2013-001": 0,
+            "progfun-002": 4201
+        },
+        {
+            "item": "2013-07-01",
+            "linearopt-001": 263,
+            "progfun-2012-001": 771
+        },
+        {
+            "analysenumerique-001": 470,
+            "cpp-fr-001": 0,
+            "dsp-001": 645,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-07-07",
+            "java-fr-2013-001": 0,
+            "progfun-002": 4470,
+            "progfun-2012-001": 662
+        },
+        {
+            "item": "2013-07-08",
+            "linearopt-001": 256
+        },
+        {
+            "analysenumerique-001": 514,
+            "cpp-fr-001": 0,
+            "dsp-001": 874,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-07-14",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 274,
+            "progfun-002": 4534,
+            "progfun-2012-001": 560
+        },
+        {
+            "analysenumerique-001": 439,
+            "cpp-fr-001": 0,
+            "dsp-001": 589,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-07-21",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 304,
+            "progfun-002": 4466,
+            "progfun-2012-001": 570
+        },
+        {
+            "dsp-002": 0,
+            "item": "2013-07-25"
+        },
+        {
+            "analysenumerique-001": 252,
+            "cpp-fr-001": 0,
+            "dsp-002": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-07-28",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 337,
+            "progfun-002": 4487,
+            "progfun-2012-001": 695
+        },
+        {
+            "dsp-001": 688,
+            "item": "2013-07-31"
+        },
+        {
+            "analysenumerique-001": 214,
+            "cpp-fr-001": 0,
+            "dsp-002": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-08-04",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 212,
+            "progfun-002": 4685,
+            "progfun-2012-001": 835
+        },
+        {
+            "item": "2013-08-05",
+            "mecanique-002": 0
+        },
+        {
+            "item": "2013-08-06",
+            "mecanique-001": 0,
+            "mecanique-002": 0
+        },
+        {
+            "dsp-001": 717,
+            "item": "2013-08-08"
+        },
+        {
+            "analysenumerique-001": 286,
+            "cpp-fr-001": 0,
+            "dsp-001": 762,
+            "dsp-002": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-08-11",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 221,
+            "mecanique-001": 0,
+            "mecanique-002": 0,
+            "progfun-002": 4664,
+            "progfun-2012-001": 600
+        },
+        {
+            "item": "2013-08-15",
+            "progfun-003": 0
+        },
+        {
+            "analysenumerique-001": 527,
+            "cpp-fr-001": 0,
+            "dsp-001": 148,
+            "dsp-002": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-08-18",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 152,
+            "mecanique-001": 0,
+            "mecanique-002": 0,
+            "progfun-003": 0,
+            "progfun-2012-001": 667
+        },
+        {
+            "item": "2013-08-20",
+            "reactive-001": 0,
+            "structures-001": 0
+        },
+        {
+            "item": "2013-08-23",
+            "reactive-001": 0
+        },
+        {
+            "item": "2013-08-24",
+            "progfun-002": 2889
+        },
+        {
+            "analysenumerique-001": 391,
+            "cpp-fr-001": 0,
+            "dsp-002": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-08-25",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 209,
+            "mecanique-001": 0,
+            "mecanique-002": 0,
+            "progfun-003": 0,
+            "progfun-2012-001": 816
+        },
+        {
+            "item": "2013-08-26",
+            "progfun-002": 2475
+        },
+        {
+            "item": "2013-08-27",
+            "reactive-001": 0
+        },
+        {
+            "item": "2013-08-28",
+            "structures-001": 0
+        },
+        {
+            "analysenumerique-001": 337,
+            "cpp-fr-001": 0,
+            "dsp-002": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-09-01",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 193,
+            "mecanique-001": 0,
+            "mecanique-002": 0,
+            "progfun-003": 0,
+            "progfun-2012-001": 792,
+            "reactive-001": 0,
+            "structures-001": 0
+        },
+        {
+            "item": "2013-09-02",
+            "progfun-002": 2047
+        },
+        {
+            "analysenumerique-001": 291,
+            "cpp-fr-001": 0,
+            "dsp-002": 0,
+            "intro-cpp-fr-001": 0,
+            "intro-java-fr-001": 0,
+            "item": "2013-09-08",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 168,
+            "mecanique-001": 1027,
+            "mecanique-002": 835,
+            "progfun-002": 2024,
+            "progfun-003": 0,
+            "reactive-001": 0,
+            "structures-001": 1200
+        },
+        {
+            "item": "2013-09-09",
+            "progfun-2012-001": 772
+        },
+        {
+            "item": "2013-09-10",
+            "microcontroleurs-002": 0
+        },
+        {
+            "item": "2013-09-12",
+            "microcontroleurs-002": 0
+        },
+        {
+            "analysenumerique-001": 418,
+            "cpp-fr-001": 0,
+            "dsp-002": 0,
+            "intro-cpp-fr-001": 9172,
+            "intro-java-fr-001": 10773,
+            "item": "2013-09-15",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 134,
+            "mecanique-001": 2736,
+            "mecanique-002": 1700,
+            "microcontroleurs-002": 0,
+            "progfun-002": 1784,
+            "progfun-003": 111906,
+            "progfun-2012-001": 702,
+            "reactive-001": 0,
+            "structures-001": 7254
+        },
+        {
+            "analysenumerique-001": 541,
+            "cpp-fr-001": 0,
+            "dsp-002": 192,
+            "intro-cpp-fr-001": 21921,
+            "intro-java-fr-001": 26170,
+            "item": "2013-09-22",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 125,
+            "mecanique-001": 2920,
+            "mecanique-002": 1830,
+            "microcontroleurs-002": 0,
+            "progfun-002": 1286,
+            "progfun-003": 114976,
+            "progfun-2012-001": 546,
+            "reactive-001": 0,
+            "structures-001": 5441
+        },
+        {
+            "item": "2013-09-25",
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 547,
+            "cpp-fr-001": 0,
+            "dsp-002": 2776,
+            "intro-cpp-fr-001": 13783,
+            "intro-java-fr-001": 21089,
+            "item": "2013-09-29",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 110,
+            "mecanique-001": 2902,
+            "mecanique-002": 1442,
+            "microcontroleurs-002": 0,
+            "progfun-003": 75463,
+            "progfun-2012-001": 489,
+            "reactive-001": 0,
+            "structures-001": 6045
+        },
+        {
+            "item": "2013-09-30",
+            "villesafricaines-001": 0
+        },
+        {
+            "item": "2013-10-02",
+            "progfun-002": 1221
+        },
+        {
+            "analysenumerique-001": 482,
+            "cpp-fr-001": 0,
+            "dsp-002": 36413,
+            "intro-cpp-fr-001": 13574,
+            "intro-java-fr-001": 19994,
+            "item": "2013-10-06",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 86,
+            "mecanique-001": 3073,
+            "mecanique-002": 1339,
+            "microcontroleurs-002": 0,
+            "progfun-002": 1159,
+            "progfun-003": 62897,
+            "progfun-2012-001": 413,
+            "reactive-001": 0,
+            "structures-001": 4962,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 570,
+            "cpp-fr-001": 0,
+            "dsp-002": 32864,
+            "intro-cpp-fr-001": 14260,
+            "intro-java-fr-001": 17059,
+            "item": "2013-10-13",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 139,
+            "mecanique-001": 2351,
+            "mecanique-002": 913,
+            "microcontroleurs-002": 0,
+            "progfun-002": 1001,
+            "progfun-003": 49804,
+            "reactive-001": 0,
+            "structures-001": 3453,
+            "villesafricaines-001": 0
+        },
+        {
+            "item": "2013-10-18",
+            "progfun-2012-001": 483
+        },
+        {
+            "analysenumerique-001": 542,
+            "cpp-fr-001": 0,
+            "dsp-002": 28923,
+            "intro-cpp-fr-001": 12206,
+            "intro-java-fr-001": 13379,
+            "item": "2013-10-20",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 195,
+            "mecanique-001": 1988,
+            "mecanique-002": 845,
+            "microcontroleurs-002": 0,
+            "progfun-002": 872,
+            "progfun-003": 60162,
+            "progfun-2012-001": 483,
+            "reactive-001": 0,
+            "structures-001": 4287,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 669,
+            "cpp-fr-001": 0,
+            "dsp-002": 21490,
+            "intro-cpp-fr-001": 13588,
+            "intro-java-fr-001": 12214,
+            "item": "2013-10-27",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 78,
+            "mecanique-001": 2151,
+            "mecanique-002": 991,
+            "microcontroleurs-002": 9485,
+            "progfun-002": 540,
+            "progfun-003": 61575,
+            "progfun-2012-001": 537,
+            "reactive-001": 0,
+            "structures-001": 2613,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 846,
+            "cpp-fr-001": 0,
+            "dsp-002": 15535,
+            "intro-cpp-fr-001": 10500,
+            "intro-java-fr-001": 11505,
+            "item": "2013-11-03",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 88,
+            "mecanique-001": 2157,
+            "mecanique-002": 929,
+            "microcontroleurs-002": 8376,
+            "progfun-002": 1754,
+            "progfun-003": 36203,
+            "progfun-2012-001": 1585,
+            "reactive-001": 107451,
+            "structures-001": 3088,
+            "villesafricaines-001": 0
+        },
+        {
+            "item": "2013-11-07",
+            "linearopt-002": 0
+        },
+        {
+            "analysenumerique-001": 673,
+            "cpp-fr-001": 0,
+            "dsp-002": 14226,
+            "intro-cpp-fr-001": 7507,
+            "intro-java-fr-001": 8583,
+            "item": "2013-11-10",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 133,
+            "mecanique-001": 1951,
+            "mecanique-002": 671,
+            "microcontroleurs-002": 7550,
+            "progfun-002": 1271,
+            "progfun-003": 22587,
+            "progfun-2012-001": 917,
+            "reactive-001": 101552,
+            "structures-001": 3724,
+            "villesafricaines-001": 0
+        },
+        {
+            "item": "2013-11-11",
+            "linearopt-002": 0
+        },
+        {
+            "analysenumerique-001": 638,
+            "cpp-fr-001": 0,
+            "dsp-002": 12303,
+            "intro-cpp-fr-001": 7425,
+            "intro-java-fr-001": 5119,
+            "item": "2013-11-17",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 63,
+            "linearopt-002": 0,
+            "mecanique-001": 2007,
+            "mecanique-002": 433,
+            "microcontroleurs-002": 6561,
+            "progfun-002": 671,
+            "progfun-003": 14481,
+            "progfun-2012-001": 602,
+            "reactive-001": 89287,
+            "structures-001": 1871,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 424,
+            "cpp-fr-001": 0,
+            "dsp-002": 9575,
+            "intro-cpp-fr-001": 7204,
+            "intro-java-fr-001": 3742,
+            "item": "2013-11-24",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 95,
+            "linearopt-002": 0,
+            "mecanique-001": 2117,
+            "mecanique-002": 595,
+            "microcontroleurs-002": 5615,
+            "progfun-002": 721,
+            "progfun-003": 10868,
+            "progfun-2012-001": 552,
+            "reactive-001": 62189,
+            "structures-001": 952,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 457,
+            "cpp-fr-001": 0,
+            "dsp-002": 10213,
+            "intro-cpp-fr-001": 3646,
+            "intro-java-fr-001": 2886,
+            "item": "2013-12-01",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 77,
+            "linearopt-002": 0,
+            "mecanique-001": 1667,
+            "mecanique-002": 466,
+            "microcontroleurs-002": 4790,
+            "progfun-002": 427,
+            "progfun-003": 9679,
+            "progfun-2012-001": 539,
+            "reactive-001": 62176,
+            "structures-001": 2363,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 383,
+            "cpp-fr-001": 0,
+            "dsp-002": 10664,
+            "intro-cpp-fr-001": 2280,
+            "intro-java-fr-001": 2101,
+            "item": "2013-12-08",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 68,
+            "linearopt-002": 0,
+            "mecanique-001": 988,
+            "mecanique-002": 429,
+            "microcontroleurs-002": 3826,
+            "progfun-002": 484,
+            "progfun-003": 9385,
+            "progfun-2012-001": 625,
+            "reactive-001": 47386,
+            "structures-001": 204,
+            "villesafricaines-001": 0
+        },
+        {
+            "item": "2013-12-10",
+            "structures-002": 0
+        },
+        {
+            "item": "2013-12-12",
+            "structures-002": 0
+        },
+        {
+            "analysenumerique-001": 420,
+            "cpp-fr-001": 0,
+            "dsp-002": 6329,
+            "geomatique-002": 0,
+            "intro-cpp-fr-001": 2211,
+            "intro-java-fr-001": 2050,
+            "item": "2013-12-15",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 84,
+            "linearopt-002": 0,
+            "mecanique-001": 587,
+            "mecanique-002": 302,
+            "microcontroleurs-002": 3360,
+            "progfun-002": 766,
+            "progfun-003": 8482,
+            "progfun-2012-001": 427,
+            "reactive-001": 33792,
+            "villesafricaines-001": 0
+        },
+        {
+            "item": "2013-12-18",
+            "structures-001": 137,
+            "structures-002": 0
+        },
+        {
+            "geomatique-002": 0,
+            "item": "2013-12-20"
+        },
+        {
+            "analysenumerique-001": 660,
+            "cpp-fr-001": 0,
+            "dsp-002": 4391,
+            "geomatique-002": 0,
+            "intro-cpp-fr-001": 1565,
+            "intro-java-fr-001": 1810,
+            "item": "2013-12-22",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 184,
+            "linearopt-002": 0,
+            "mecanique-001": 1189,
+            "mecanique-002": 530,
+            "microcontroleurs-002": 2204,
+            "progfun-003": 8319,
+            "progfun-2012-001": 478,
+            "reactive-001": 19168,
+            "structures-001": 46,
+            "structures-002": 0,
+            "villesafricaines-001": 0
+        },
+        {
+            "item": "2013-12-23",
+            "progfun-002": 739
+        },
+        {
+            "analysenumerique-001": 688,
+            "cpp-fr-001": 0,
+            "dsp-002": 4102,
+            "geomatique-002": 0,
+            "intro-cpp-fr-001": 1717,
+            "intro-java-fr-001": 1715,
+            "item": "2013-12-29",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 132,
+            "linearopt-002": 0,
+            "mecanique-001": 1432,
+            "mecanique-002": 401,
+            "microcontroleurs-002": 1041,
+            "progfun-002": 753,
+            "progfun-003": 8449,
+            "progfun-2012-001": 473,
+            "reactive-001": 13032,
+            "structures-001": 29,
+            "structures-002": 0,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 360,
+            "analysenumerique-002": 0,
+            "cpp-fr-001": 0,
+            "geomatique-002": 0,
+            "intro-cpp-fr-001": 1312,
+            "intro-java-fr-001": 2021,
+            "item": "2014-01-05",
+            "java-fr-2013-001": 0,
+            "linearopt-002": 0,
+            "mecanique-001": 1444,
+            "mecanique-002": 656,
+            "microcontroleurs-002": 1078,
+            "progfun-002": 426,
+            "progfun-003": 8710,
+            "progfun-2012-001": 550,
+            "reactive-001": 6518,
+            "structures-002": 0,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-002": 0,
+            "item": "2014-01-06"
+        },
+        {
+            "dsp-002": 3385,
+            "item": "2014-01-08",
+            "linearopt-001": 143,
+            "structures-001": 40
+        },
+        {
+            "analysenumerique-002": 0,
+            "cpp-fr-001": 0,
+            "dsp-002": 4002,
+            "geomatique-002": 0,
+            "intro-cpp-fr-001": 1596,
+            "intro-java-fr-001": 2299,
+            "item": "2014-01-12",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 148,
+            "linearopt-002": 0,
+            "mecanique-001": 2109,
+            "mecanique-002": 934,
+            "microcontroleurs-002": 1108,
+            "progfun-002": 372,
+            "progfun-003": 8535,
+            "progfun-2012-001": 341,
+            "reactive-001": 4572,
+            "structures-001": 69,
+            "structures-002": 0,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 354,
+            "item": "2014-01-15"
+        },
+        {
+            "analysenumerique-001": 216,
+            "analysenumerique-002": 0,
+            "cpp-fr-001": 0,
+            "dsp-002": 3977,
+            "geomatique-002": 0,
+            "intro-cpp-fr-001": 3164,
+            "intro-java-fr-001": 2594,
+            "item": "2014-01-19",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 121,
+            "linearopt-002": 0,
+            "mecanique-001": 808,
+            "mecanique-002": 412,
+            "microcontroleurs-002": 947,
+            "progfun-002": 552,
+            "progfun-003": 9526,
+            "progfun-2012-001": 331,
+            "reactive-001": 4183,
+            "structures-001": 30,
+            "structures-002": 0,
+            "villesafricaines-001": 0
+        },
+        {
+            "hwts-001": 0,
+            "item": "2014-01-20",
+            "mecanique-003": 0
+        },
+        {
+            "hwts-001": 0,
+            "item": "2014-01-21"
+        },
+        {
+            "analysenumerique-001": 132,
+            "analysenumerique-002": 0,
+            "cpp-fr-001": 0,
+            "dsp-002": 3327,
+            "geomatique-002": 0,
+            "hwts-001": 0,
+            "intro-cpp-fr-001": 1791,
+            "intro-java-fr-001": 2912,
+            "item": "2014-01-26",
+            "java-fr-2013-001": 0,
+            "linearopt-002": 0,
+            "mecanique-001": 434,
+            "mecanique-002": 366,
+            "microcontroleurs-002": 1047,
+            "progfun-002": 575,
+            "progfun-003": 9135,
+            "progfun-2012-001": 292,
+            "reactive-001": 3370,
+            "structures-002": 0,
+            "villesafricaines-001": 0
+        },
+        {
+            "item": "2014-01-27",
+            "mecanique-003": 0
+        },
+        {
+            "item": "2014-01-31",
+            "linearopt-001": 78,
+            "structures-001": 34
+        },
+        {
+            "analysenumerique-001": 146,
+            "analysenumerique-002": 0,
+            "cpp-fr-001": 0,
+            "dsp-002": 3763,
+            "geomatique-002": 0,
+            "hwts-001": 0,
+            "intro-cpp-fr-001": 2001,
+            "intro-java-fr-001": 2701,
+            "item": "2014-02-02",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 118,
+            "linearopt-002": 0,
+            "mecanique-001": 265,
+            "mecanique-002": 427,
+            "microcontroleurs-002": 849,
+            "progfun-002": 395,
+            "progfun-003": 8567,
+            "progfun-2012-001": 193,
+            "reactive-001": 2722,
+            "structures-001": 43,
+            "structures-002": 0,
+            "villesafricaines-001": 0
+        },
+        {
+            "analysenumerique-001": 82,
+            "analysenumerique-002": 742,
+            "cpp-fr-001": 0,
+            "dsp-002": 3177,
+            "geomatique-002": 0,
+            "hwts-001": 0,
+            "intro-cpp-fr-001": 2030,
+            "intro-java-fr-001": 2870,
+            "item": "2014-02-09",
+            "java-fr-2013-001": 0,
+            "linearopt-001": 120,
+            "linearopt-002": 0,
+            "mecanique-001": 120,
+            "mecanique-002": 482,
+            "microcontroleurs-002": 753,
+            "progfun-002": 282,
+            "progfun-003": 8137,
+            "progfun-2012-001": 215,
+            "reactive-001": 2815,
+            "structures-001": 23,
+            "structures-002": 0,
+            "villesafricaines-001": 0
+        },
+        {
+            "item": "2014-02-10",
+            "microcontroleurs-003": 0
+        },
+        {
+            "analysenumerique-002": 7415,
+            "cpp-fr-001": 4783,
+            "dsp-002": 2954,
+            "geomatique-002": 2605,
+            "hwts-001": 0,
+            "intro-cpp-fr-001": 2646,
+            "intro-java-fr-001": 3383,
+            "item": "2014-02-16",
+            "java-fr-2013-001": 6518,
+            "linearopt-001": 144,
+            "linearopt-002": 0,
+            "mecanique-001": 114,
+            "mecanique-002": 632,
+            "microcontroleurs-002": 653,
+            "progfun-002": 370,
+            "progfun-003": 8718,
+            "progfun-2012-001": 242,
+            "reactive-001": 2962,
+            "structures-001": 28,
+            "structures-002": 1535,
+            "villesafricaines-001": 11329
+        },
+        {
+            "item": "2014-02-17",
+            "microcontroleurs-003": 0
+        },
+        {
+            "item": "2014-02-20",
+            "progfun-004": 0
+        },
+        {
+            "analysenumerique-002": 7608,
+            "cpp-fr-001": 11319,
+            "dsp-002": 2953,
+            "geomatique-002": 2394,
+            "hwts-001": 0,
+            "intro-cpp-fr-001": 2704,
+            "intro-java-fr-001": 3193,
+            "item": "2014-02-23",
+            "java-fr-2013-001": 16298,
+            "linearopt-001": 113,
+            "linearopt-002": 0,
+            "mecanique-001": 89,
+            "mecanique-002": 633,
+            "microcontroleurs-002": 423,
+            "microcontroleurs-003": 0,
+            "progfun-002": 368,
+            "progfun-003": 9409,
+            "progfun-2012-001": 283,
+            "reactive-001": 2617,
+            "structures-001": 42,
+            "structures-002": 2880,
+            "villesafricaines-001": 12148
+        },
+        {
+            "item": "2014-02-25",
+            "progfun-004": 0
+        },
+        {
+            "item": "2014-02-28",
+            "progfun-004": 0
+        },
+        {
+            "item": "2014-03-01",
+            "sanitation-001": 0
+        },
+        {
+            "analysenumerique-002": 7497,
+            "cpp-fr-001": 10096,
+            "dsp-002": 1390,
+            "geomatique-002": 2776,
+            "hwts-001": 0,
+            "intro-cpp-fr-001": 2259,
+            "intro-java-fr-001": 2401,
+            "item": "2014-03-02",
+            "java-fr-2013-001": 12584,
+            "linearopt-001": 93,
+            "linearopt-002": 0,
+            "mecanique-001": 68,
+            "mecanique-002": 597,
+            "microcontroleurs-002": 202,
+            "microcontroleurs-003": 0,
+            "progfun-002": 447,
+            "progfun-003": 8438,
+            "progfun-2012-001": 222,
+            "reactive-001": 2689,
+            "structures-001": 35,
+            "structures-002": 2505,
+            "villesafricaines-001": 8652
+        },
+        {
+            "item": "2014-03-04",
+            "sanitation-001": 0
+        },
+        {
+            "item": "2014-03-07",
+            "progfun-004": 0
+        },
+        {
+            "analysenumerique-002": 5908,
+            "cpp-fr-001": 9234,
+            "geomatique-002": 1746,
+            "hwts-001": 0,
+            "intro-cpp-fr-001": 2005,
+            "intro-java-fr-001": 2168,
+            "item": "2014-03-09",
+            "java-fr-2013-001": 11010,
+            "linearopt-001": 101,
+            "linearopt-002": 0,
+            "mecanique-001": 24,
+            "mecanique-002": 578,
+            "microcontroleurs-002": 194,
+            "microcontroleurs-003": 0,
+            "progfun-002": 398,
+            "progfun-003": 6424,
+            "progfun-004": 0,
+            "progfun-2012-001": 218,
+            "reactive-001": 2666,
+            "structures-001": 21,
+            "structures-002": 2270,
+            "villesafricaines-001": 7676
+        },
+        {
+            "dsp-002": 6,
+            "item": "2014-03-10"
+        },
+        {
+            "analysenumerique-002": 6362,
+            "cpp-fr-001": 9957,
+            "dsp-002": 2,
+            "geomatique-002": 1335,
+            "hwts-001": 0,
+            "intro-cpp-fr-001": 2201,
+            "intro-java-fr-001": 2450,
+            "item": "2014-03-16",
+            "java-fr-2013-001": 9955,
+            "linearopt-001": 126,
+            "linearopt-002": 9057,
+            "mecanique-001": 48,
+            "mecanique-002": 492,
+            "microcontroleurs-002": 234,
+            "microcontroleurs-003": 0,
+            "progfun-002": 519,
+            "progfun-003": 5150,
+            "progfun-004": 0,
+            "progfun-2012-001": 292,
+            "reactive-001": 3037,
+            "structures-001": 10,
+            "structures-002": 1596,
+            "villesafricaines-001": 5785
+        },
+        {
+            "analysenumerique-002": 5102,
+            "cpp-fr-001": 9382,
+            "geomatique-002": 1865,
+            "hwts-001": 31,
+            "intro-cpp-fr-001": 1901,
+            "intro-java-fr-001": 2261,
+            "item": "2014-03-23",
+            "java-fr-2013-001": 7512,
+            "linearopt-001": 92,
+            "linearopt-002": 9510,
+            "mecanique-001": 31,
+            "mecanique-002": 433,
+            "microcontroleurs-002": 113,
+            "microcontroleurs-003": 0,
+            "progfun-002": 335,
+            "progfun-003": 4686,
+            "progfun-004": 0,
+            "progfun-2012-001": 249,
+            "reactive-001": 2582,
+            "structures-001": 20,
+            "structures-002": 1155,
+            "villesafricaines-001": 5484
+        },
+        {
+            "dsp-002": 4,
+            "item": "2014-03-25"
+        },
+        {
+            "analysenumerique-002": 4760,
+            "cpp-fr-001": 7024,
+            "geomatique-002": 2307,
+            "hwts-001": 60,
+            "intro-cpp-fr-001": 1603,
+            "intro-java-fr-001": 2308,
+            "item": "2014-03-30",
+            "java-fr-2013-001": 6915,
+            "linearopt-001": 26,
+            "linearopt-002": 7827,
+            "mecanique-001": 34,
+            "mecanique-002": 229,
+            "microcontroleurs-002": 84,
+            "microcontroleurs-003": 0,
+            "progfun-002": 400,
+            "progfun-003": 4585,
+            "progfun-004": 0,
+            "progfun-2012-001": 351,
+            "reactive-001": 2925,
+            "structures-002": 1228,
+            "villesafricaines-001": 5012
+        },
+        {
+            "item": "2014-03-31",
+            "structures-001": 10
+        },
+        {
+            "dsp-002": 6,
+            "dsp-004": 0,
+            "item": "2014-04-05"
+        },
+        {
+            "analysenumerique-002": 6745,
+            "cpp-fr-001": 6511,
+            "geomatique-002": 1746,
+            "hwts-001": 12183,
+            "intro-cpp-fr-001": 1312,
+            "intro-java-fr-001": 1650,
+            "item": "2014-04-06",
+            "java-fr-2013-001": 6009,
+            "linearopt-001": 79,
+            "linearopt-002": 6473,
+            "mecanique-001": 40,
+            "mecanique-002": 274,
+            "microcontroleurs-002": 65,
+            "microcontroleurs-003": 0,
+            "progfun-002": 497,
+            "progfun-003": 4152,
+            "progfun-004": 0,
+            "progfun-2012-001": 236,
+            "reactive-001": 2752,
+            "structures-001": 0,
+            "structures-002": 996,
+            "villesafricaines-001": 3424
+        },
+        {
+            "dsp-004": 0,
+            "item": "2014-04-07"
+        },
+        {
+            "analysenumerique-002": 641,
+            "cpp-fr-001": 3009,
+            "dsp-004": 0,
+            "geomatique-002": 976,
+            "hwts-001": 11181,
+            "intro-cpp-fr-001": 1707,
+            "intro-java-fr-001": 1715,
+            "item": "2014-04-13",
+            "java-fr-2013-001": 3512,
+            "linearopt-001": 83,
+            "linearopt-002": 4885,
+            "mecanique-001": 54,
+            "mecanique-002": 136,
+            "microcontroleurs-002": 88,
+            "microcontroleurs-003": 0,
+            "progfun-002": 390,
+            "progfun-003": 4429,
+            "progfun-004": 0,
+            "progfun-2012-001": 259,
+            "reactive-001": 2990,
+            "structures-001": 3,
+            "structures-002": 963,
+            "villesafricaines-001": 3129
+        },
+        {
+            "analysenumerique-002": 280,
+            "cpp-fr-001": 2318,
+            "dsp-004": 0,
+            "geomatique-002": 986,
+            "hwts-001": 11025,
+            "intro-cpp-fr-001": 1237,
+            "intro-java-fr-001": 1759,
+            "item": "2014-04-20",
+            "java-fr-2013-001": 2358,
+            "linearopt-001": 26,
+            "linearopt-002": 3693,
+            "mecanique-001": 29,
+            "mecanique-002": 88,
+            "microcontroleurs-002": 98,
+            "microcontroleurs-003": 0,
+            "progfun-002": 411,
+            "progfun-003": 3718,
+            "progfun-004": 33607,
+            "progfun-2012-001": 280,
+            "reactive-001": 2627,
+            "structures-002": 976,
+            "villesafricaines-001": 2349
+        },
+        {
+            "item": "2014-04-21",
+            "structures-001": 38
+        },
+        {
+            "dsp-002": 1,
+            "item": "2014-04-25"
+        },
+        {
+            "analysenumerique-002": 512,
+            "cpp-fr-001": 1741,
+            "dsp-004": 18962,
+            "geomatique-002": 1211,
+            "hwts-001": 7741,
+            "intro-cpp-fr-001": 1089,
+            "intro-java-fr-001": 1612,
+            "item": "2014-04-27",
+            "java-fr-2013-001": 1818,
+            "linearopt-001": 64,
+            "linearopt-002": 3720,
+            "mecanique-001": 26,
+            "mecanique-002": 55,
+            "microcontroleurs-003": 10505,
+            "progfun-002": 344,
+            "progfun-003": 2500,
+            "progfun-004": 101463,
+            "progfun-2012-001": 242,
+            "reactive-001": 2649,
+            "structures-001": 25,
+            "structures-002": 1235,
+            "villesafricaines-001": 2767
+        },
+        {
+            "item": "2014-04-30",
+            "microcontroleurs-002": 379
+        },
+        {
+            "analysenumerique-002": 379,
+            "cpp-fr-001": 1080,
+            "dsp-004": 18689,
+            "geomatique-002": 1109,
+            "hwts-001": 8047,
+            "intro-cpp-fr-001": 1203,
+            "intro-java-fr-001": 1703,
+            "item": "2014-05-04",
+            "java-fr-2013-001": 1727,
+            "linearopt-001": 66,
+            "linearopt-002": 3464,
+            "mecanique-001": 123,
+            "microcontroleurs-002": 195,
+            "microcontroleurs-003": 9553,
+            "progfun-002": 299,
+            "progfun-004": 87610,
+            "progfun-2012-001": 262,
+            "reactive-001": 2372,
+            "structures-001": 9,
+            "structures-002": 446,
+            "villesafricaines-001": 3656
+        },
+        {
+            "dsp-002": 9,
+            "item": "2014-05-06"
+        },
+        {
+            "item": "2014-05-07",
+            "progfun-003": 1788
+        },
+        {
+            "item": "2014-05-09",
+            "mecanique-002": 18
+        },
+        {
+            "item": "2014-05-10",
+            "villesafricaines-002": 0
+        },
+        {
+            "analysenumerique-002": 691,
+            "cpp-fr-001": 1513,
+            "dsp-004": 16566,
+            "geomatique-002": 1441,
+            "hwts-001": 2819,
+            "intro-cpp-fr-001": 1209,
+            "intro-java-fr-001": 1453,
+            "item": "2014-05-11",
+            "java-fr-2013-001": 1376,
+            "linearopt-001": 87,
+            "linearopt-002": 2999,
+            "mecanique-001": 33,
+            "mecanique-002": 27,
+            "microcontroleurs-002": 67,
+            "microcontroleurs-003": 6908,
+            "progfun-002": 190,
+            "progfun-004": 70558,
+            "progfun-2012-001": 198,
+            "reactive-001": 2487,
+            "structures-001": 19,
+            "structures-002": 288,
+            "villesafricaines-001": 3117
+        },
+        {
+            "dsp-002": 27,
+            "item": "2014-05-12"
+        },
+        {
+            "item": "2014-05-14",
+            "villesafricaines-002": 0
+        },
+        {
+            "item": "2014-05-17",
+            "progfun-003": 1430
+        },
+        {
+            "analysenumerique-002": 288,
+            "cpp-fr-001": 2633,
+            "dsp-004": 12657,
+            "geomatique-002": 2148,
+            "hwts-001": 1038,
+            "intro-cpp-fr-001": 1356,
+            "intro-java-fr-001": 1683,
+            "item": "2014-05-18",
+            "java-fr-2013-001": 983,
+            "linearopt-002": 2060,
+            "mecanique-002": 50,
+            "microcontroleurs-002": 46,
+            "microcontroleurs-003": 6121,
+            "progfun-004": 61265,
+            "progfun-2012-001": 223,
+            "reactive-001": 2266,
+            "structures-001": 12,
+            "structures-002": 360,
+            "villesafricaines-001": 1593,
+            "villesafricaines-002": 0
+        },
+        {
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-05-20",
+            "structures-003": 0
+        },
+        {
+            "item": "2014-05-21",
+            "progfun-002": 276
+        },
+        {
+            "dsp-001": 0,
+            "item": "2014-05-22",
+            "progfun-003": 1162
+        },
+        {
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-05-23",
+            "linearopt-001": 80,
+            "mecanique-001": 21,
+            "progfun-005": 0,
+            "structures-003": 0
+        },
+        {
+            "dsp-002": 35,
+            "item": "2014-05-24"
+        },
+        {
+            "analysenumerique-002": 473,
+            "cpp-fr-001": 756,
+            "dsp-004": 10649,
+            "hwts-001": 706,
+            "intro-cpp-fr-001": 1104,
+            "intro-java-fr-001": 1634,
+            "item": "2014-05-25",
+            "java-fr-2013-001": 996,
+            "linearopt-002": 1587,
+            "microcontroleurs-002": 26,
+            "microcontroleurs-003": 5575,
+            "progfun-002": 290,
+            "progfun-004": 53120,
+            "reactive-001": 2858,
+            "structures-002": 237,
+            "villesafricaines-001": 549,
+            "villesafricaines-002": 0
+        },
+        {
+            "item": "2014-05-26",
+            "linearopt-001": 39,
+            "mecanique-002": 55,
+            "progfun-003": 1144,
+            "progfun-2012-001": 191
+        },
+        {
+            "dsp-002": 2,
+            "geomatique-002": 231,
+            "item": "2014-05-28"
+        },
+        {
+            "item": "2014-05-29",
+            "mecanique-001": 12,
+            "structures-001": 25
+        },
+        {
+            "dsp-001": 0,
+            "item": "2014-05-31"
+        },
+        {
+            "analysenumerique-002": 704,
+            "cpp-fr-001": 522,
+            "dsp-004": 10116,
+            "hwts-001": 437,
+            "intro-cpp-fr-001": 1147,
+            "intro-java-fr-001": 1557,
+            "item": "2014-06-01",
+            "java-fr-2013-001": 884,
+            "linearopt-002": 1217,
+            "mecanique-001": 28,
+            "mecanique-002": 60,
+            "microcontroleurs-002": 32,
+            "microcontroleurs-003": 5436,
+            "progfun-003": 807,
+            "progfun-004": 53080,
+            "progfun-2012-001": 197,
+            "reactive-001": 2424,
+            "structures-002": 210,
+            "villesafricaines-001": 415,
+            "villesafricaines-002": 0
+        },
+        {
+            "dsp-002": 0,
+            "geomatique-002": 130,
+            "item": "2014-06-02",
+            "linearopt-001": 66,
+            "progfun-002": 211,
+            "structures-001": 1
+        },
+        {
+            "dsp-001": 0,
+            "item": "2014-06-03"
+        },
+        {
+            "item": "2014-06-04",
+            "mecanique-003": 0
+        },
+        {
+            "analysenumerique-002": 1335,
+            "cpp-fr-001": 696,
+            "dsp-002": 1,
+            "dsp-004": 7990,
+            "hwts-001": 330,
+            "intro-cpp-fr-001": 1173,
+            "intro-java-fr-001": 1417,
+            "item": "2014-06-08",
+            "java-fr-2013-001": 847,
+            "linearopt-001": 31,
+            "linearopt-002": 962,
+            "mecanique-001": 18,
+            "mecanique-002": 84,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 27,
+            "microcontroleurs-003": 3511,
+            "progfun-002": 251,
+            "progfun-003": 692,
+            "progfun-004": 56601,
+            "progfun-2012-001": 128,
+            "reactive-001": 2646,
+            "structures-002": 264,
+            "villesafricaines-001": 423,
+            "villesafricaines-002": 0
+        },
+        {
+            "item": "2014-06-09",
+            "structures-001": 6
+        },
+        {
+            "geomatique-002": 32,
+            "item": "2014-06-10"
+        },
+        {
+            "analysenumerique-002": 1688,
+            "cpp-fr-001": 553,
+            "dsp-004": 7609,
+            "geomatique-002": 54,
+            "hwts-001": 203,
+            "intro-cpp-fr-001": 1084,
+            "intro-java-fr-001": 1639,
+            "item": "2014-06-15",
+            "java-fr-2013-001": 902,
+            "linearopt-001": 38,
+            "linearopt-002": 741,
+            "mecanique-001": 15,
+            "mecanique-002": 45,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 36,
+            "microcontroleurs-003": 2417,
+            "progfun-002": 155,
+            "progfun-003": 765,
+            "progfun-004": 34278,
+            "progfun-2012-001": 98,
+            "reactive-001": 3140,
+            "structures-001": 1,
+            "structures-002": 234,
+            "villesafricaines-001": 380,
+            "villesafricaines-002": 0
+        },
+        {
+            "analysenumerique-002": 3852,
+            "cpp-fr-001": 504,
+            "dsp-004": 7744,
+            "geomatique-002": 20,
+            "hwts-001": 262,
+            "intro-cpp-fr-001": 1044,
+            "intro-java-fr-001": 1349,
+            "item": "2014-06-22",
+            "java-fr-2013-001": 1056,
+            "linearopt-001": 21,
+            "linearopt-002": 863,
+            "mecanique-001": 162,
+            "mecanique-002": 7,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 42,
+            "microcontroleurs-003": 1521,
+            "progfun-002": 238,
+            "progfun-003": 1056,
+            "progfun-004": 22356,
+            "progfun-2012-001": 90,
+            "reactive-001": 3057,
+            "structures-001": 1,
+            "structures-002": 235,
+            "villesafricaines-001": 179,
+            "villesafricaines-002": 0
+        },
+        {
+            "dsp-002": 3,
+            "item": "2014-06-26"
+        },
+        {
+            "analysenumerique-002": 290,
+            "cpp-fr-001": 478,
+            "dsp-004": 7894,
+            "geomatique-002": 82,
+            "intro-cpp-fr-001": 943,
+            "intro-java-fr-001": 1487,
+            "item": "2014-06-29",
+            "java-fr-2013-001": 926,
+            "linearopt-001": 140,
+            "linearopt-002": 1551,
+            "mecanique-001": 28,
+            "mecanique-002": 13,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 56,
+            "microcontroleurs-003": 1239,
+            "progfun-004": 13821,
+            "progfun-2012-001": 142,
+            "reactive-001": 3735,
+            "structures-001": 8,
+            "structures-002": 220,
+            "villesafricaines-001": 120,
+            "villesafricaines-002": 0
+        },
+        {
+            "item": "2014-06-30",
+            "progfun-002": 305
+        },
+        {
+            "item": "2014-07-01",
+            "sanitation-001": 0
+        },
+        {
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "item": "2014-07-02"
+        },
+        {
+            "hwts-001": 139,
+            "item": "2014-07-03",
+            "progfun-003": 768
+        },
+        {
+            "analysenumerique-002": 216,
+            "cpp-fr-001": 389,
+            "dsp-004": 5472,
+            "geomatique-002": 10,
+            "hwts-001": 60,
+            "intro-cpp-fr-001": 782,
+            "intro-java-fr-001": 1091,
+            "item": "2014-07-06",
+            "java-fr-2013-001": 704,
+            "linearopt-001": 32,
+            "linearopt-002": 873,
+            "mecanique-001": 53,
+            "mecanique-002": 12,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 50,
+            "microcontroleurs-003": 788,
+            "progfun-002": 346,
+            "progfun-004": 10312,
+            "progfun-2012-001": 174,
+            "reactive-001": 3153,
+            "sanitation-001": 0,
+            "structures-002": 227,
+            "villesafricaines-001": 129,
+            "villesafricaines-002": 0
+        },
+        {
+            "item": "2014-07-07",
+            "structures-001": 6
+        },
+        {
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-07-08",
+            "structures-003": 0
+        },
+        {
+            "item": "2014-07-12",
+            "progfun-003": 980
+        },
+        {
+            "analysenumerique-002": 619,
+            "dsp-004": 2579,
+            "geomatique-002": 51,
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intro-java-fr-001": 443,
+            "intropoojava-001": 0,
+            "item": "2014-07-13",
+            "linearopt-001": 42,
+            "linearopt-002": 550,
+            "mecanique-001": 8,
+            "mecanique-002": 11,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 41,
+            "microcontroleurs-003": 808,
+            "progfun-002": 302,
+            "progfun-003": 719,
+            "progfun-004": 11176,
+            "progfun-2012-001": 211,
+            "reactive-001": 2533,
+            "sanitation-001": 0,
+            "structures-001": 2,
+            "structures-002": 230,
+            "structures-003": 0,
+            "villesafricaines-001": 102,
+            "villesafricaines-002": 0
+        },
+        {
+            "item": "2014-07-14",
+            "java-fr-2013-001": 332
+        },
+        {
+            "cpp-fr-001": 209,
+            "hwts-001": 150,
+            "intropoocpp-001": 0,
+            "item": "2014-07-16"
+        },
+        {
+            "intro-cpp-fr-001": 338,
+            "item": "2014-07-18"
+        },
+        {
+            "analysenumerique-002": 318,
+            "geomatique-002": 21,
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intro-cpp-fr-001": 452,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-07-20",
+            "linearopt-001": 22,
+            "linearopt-002": 685,
+            "mecanique-001": 16,
+            "mecanique-002": 11,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 62,
+            "microcontroleurs-003": 672,
+            "progfun-002": 215,
+            "progfun-003": 512,
+            "progfun-004": 10717,
+            "progfun-2012-001": 142,
+            "reactive-001": 2689,
+            "sanitation-001": 0,
+            "structures-001": 7,
+            "structures-002": 37,
+            "structures-003": 0,
+            "villesafricaines-001": 124,
+            "villesafricaines-002": 0
+        },
+        {
+            "intro-java-fr-001": 342,
+            "item": "2014-07-21"
+        },
+        {
+            "cpp-fr-001": 295,
+            "item": "2014-07-22",
+            "java-fr-2013-001": 341
+        },
+        {
+            "dsp-004": 1592,
+            "hwts-001": 61,
+            "item": "2014-07-24"
+        },
+        {
+            "analysenumerique-002": 211,
+            "geomatique-002": 25,
+            "hwts-001": 31,
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-07-27",
+            "java-fr-2013-001": 287,
+            "linearopt-001": 116,
+            "linearopt-002": 815,
+            "mecanique-001": 118,
+            "mecanique-002": 8,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 40,
+            "microcontroleurs-003": 449,
+            "progfun-002": 185,
+            "progfun-003": 489,
+            "progfun-004": 9047,
+            "progfun-2012-001": 287,
+            "reactive-001": 2365,
+            "sanitation-001": 0,
+            "structures-002": 49,
+            "structures-003": 0,
+            "villesafricaines-001": 73,
+            "villesafricaines-002": 0
+        },
+        {
+            "item": "2014-07-28",
+            "structures-001": 1
+        },
+        {
+            "dsp-004": 1496,
+            "intro-cpp-fr-001": 455,
+            "item": "2014-07-29"
+        },
+        {
+            "intro-java-fr-001": 355,
+            "item": "2014-07-30"
+        },
+        {
+            "cpp-fr-001": 244,
+            "item": "2014-08-01"
+        },
+        {
+            "analysenumerique-002": 280,
+            "cpp-fr-001": 240,
+            "hwts-001": 78,
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intro-cpp-fr-001": 300,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-08-03",
+            "linearopt-001": 19,
+            "linearopt-002": 821,
+            "mecanique-001": 15,
+            "mecanique-002": 67,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 45,
+            "microcontroleurs-003": 341,
+            "progfun-002": 253,
+            "progfun-003": 807,
+            "progfun-004": 9941,
+            "progfun-2012-001": 101,
+            "reactive-001": 2946,
+            "sanitation-001": 0,
+            "structures-001": 4,
+            "structures-002": 53,
+            "structures-003": 0,
+            "villesafricaines-001": 98,
+            "villesafricaines-002": 0
+        },
+        {
+            "dsp-004": 1311,
+            "geomatique-002": 6,
+            "item": "2014-08-04"
+        },
+        {
+            "intro-java-fr-001": 315,
+            "item": "2014-08-06",
+            "java-fr-2013-001": 250
+        },
+        {
+            "analysenumerique-002": 350,
+            "cpp-fr-001": 133,
+            "hwts-001": 60,
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intro-cpp-fr-001": 252,
+            "intro-java-fr-001": 274,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-08-10",
+            "java-fr-2013-001": 279,
+            "linearopt-001": 11,
+            "linearopt-002": 834,
+            "mecanique-001": 28,
+            "mecanique-002": 30,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 15,
+            "microcontroleurs-003": 300,
+            "progfun-002": 315,
+            "progfun-004": 10196,
+            "progfun-2012-001": 74,
+            "reactive-001": 2653,
+            "sanitation-001": 0,
+            "structures-002": 51,
+            "structures-003": 0,
+            "villesafricaines-001": 76,
+            "villesafricaines-002": 0
+        },
+        {
+            "geomatique-002": 20,
+            "item": "2014-08-11"
+        },
+        {
+            "dsp-004": 957,
+            "item": "2014-08-13",
+            "structures-001": 0
+        },
+        {
+            "item": "2014-08-15",
+            "progfun-003": 500
+        },
+        {
+            "analysenumerique-002": 512,
+            "dsp-004": 814,
+            "geomatique-002": 33,
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intro-java-fr-001": 313,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-08-17",
+            "java-fr-2013-001": 351,
+            "linearopt-001": 32,
+            "linearopt-002": 1178,
+            "mecanique-001": 33,
+            "mecanique-002": 36,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 41,
+            "microcontroleurs-003": 547,
+            "progfun-002": 291,
+            "progfun-003": 547,
+            "progfun-004": 8366,
+            "progfun-2012-001": 133,
+            "reactive-001": 2942,
+            "sanitation-001": 0,
+            "structures-002": 24,
+            "structures-003": 0,
+            "villesafricaines-001": 72,
+            "villesafricaines-002": 0
+        },
+        {
+            "intro-cpp-fr-001": 136,
+            "item": "2014-08-19"
+        },
+        {
+            "item": "2014-08-20",
+            "progfun-005": 0,
+            "structures-001": 0
+        },
+        {
+            "hwts-001": 4,
+            "item": "2014-08-22"
+        },
+        {
+            "cpp-fr-001": 107,
+            "item": "2014-08-23"
+        },
+        {
+            "analysenumerique-002": 405,
+            "dsp-004": 729,
+            "geomatique-002": 16,
+            "initprogcpp-001": 0,
+            "initprogjava-001": 0,
+            "intro-java-fr-001": 260,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-08-24",
+            "java-fr-2013-001": 194,
+            "linearopt-001": 24,
+            "linearopt-002": 691,
+            "mecanique-001": 11,
+            "mecanique-002": 17,
+            "mecanique-003": 0,
+            "microcontroleurs-002": 49,
+            "microcontroleurs-003": 429,
+            "progfun-002": 174,
+            "progfun-003": 641,
+            "progfun-004": 5730,
+            "progfun-005": 0,
+            "progfun-2012-001": 185,
+            "reactive-001": 2462,
+            "sanitation-001": 0,
+            "structures-001": 1,
+            "structures-002": 20,
+            "structures-003": 0,
+            "villesafricaines-001": 287,
+            "villesafricaines-002": 0
+        },
+        {
+            "hwts-001": 4,
+            "item": "2014-08-26"
+        },
+        {
+            "cpp-fr-001": 94,
+            "item": "2014-08-28"
+        },
+        {
+            "intro-cpp-fr-001": 212,
+            "item": "2014-08-29"
+        },
+        {
+            "analysenumerique-002": 565,
+            "dsp-004": 578,
+            "geomatique-002": 11,
+            "initprogcpp-001": 0,
+            "initprogjava-001": 11843,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-08-31",
+            "linearopt-001": 35,
+            "linearopt-002": 865,
+            "mecanique-001": 24,
+            "mecanique-002": 21,
+            "mecanique-003": 2433,
+            "microcontroleurs-002": 31,
+            "microcontroleurs-003": 370,
+            "progfun-003": 699,
+            "progfun-004": 4508,
+            "progfun-005": 0,
+            "progfun-2012-001": 184,
+            "reactive-001": 2767,
+            "sanitation-001": 0,
+            "structures-001": 17,
+            "structures-002": 17,
+            "structures-003": 0,
+            "villesafricaines-001": 130,
+            "villesafricaines-002": 0
+        },
+        {
+            "cpp-fr-001": 84,
+            "intro-cpp-fr-001": 338,
+            "item": "2014-09-01"
+        },
+        {
+            "hwts-001": 3,
+            "intro-java-fr-001": 204,
+            "item": "2014-09-02"
+        },
+        {
+            "item": "2014-09-03",
+            "java-fr-2013-001": 134
+        },
+        {
+            "item": "2014-09-06",
+            "progfun-002": 148
+        },
+        {
+            "analysenumerique-002": 645,
+            "cpp-fr-001": 190,
+            "geomatique-002": 24,
+            "initprogcpp-001": 0,
+            "initprogjava-001": 19083,
+            "intro-cpp-fr-001": 286,
+            "intro-java-fr-001": 194,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-09-07",
+            "java-fr-2013-001": 148,
+            "linearopt-001": 64,
+            "linearopt-002": 736,
+            "mecanique-001": 12,
+            "mecanique-002": 9,
+            "mecanique-003": 2591,
+            "microcontroleurs-002": 19,
+            "microcontroleurs-003": 285,
+            "progfun-002": 232,
+            "progfun-003": 472,
+            "progfun-004": 5029,
+            "progfun-005": 0,
+            "progfun-2012-001": 195,
+            "reactive-001": 2785,
+            "sanitation-001": 0,
+            "structures-001": 35,
+            "structures-002": 86,
+            "structures-003": 1481,
+            "villesafricaines-001": 20,
+            "villesafricaines-002": 0
+        },
+        {
+            "dsp-004": 675,
+            "item": "2014-09-09"
+        },
+        {
+            "hwts-001": 1,
+            "item": "2014-09-10"
+        },
+        {
+            "analysenumerique-002": 365,
+            "cpp-fr-001": 261,
+            "dsp-004": 713,
+            "initprogcpp-001": 7542,
+            "initprogjava-001": 17217,
+            "intro-cpp-fr-001": 185,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-09-14",
+            "java-fr-2013-001": 127,
+            "linearopt-001": 38,
+            "linearopt-002": 579,
+            "mecanique-001": 41,
+            "mecanique-002": 21,
+            "mecanique-003": 2516,
+            "microcontroleurs-003": 223,
+            "progfun-002": 166,
+            "progfun-003": 601,
+            "progfun-004": 4328,
+            "progfun-005": 85727,
+            "progfun-2012-001": 271,
+            "reactive-001": 3034,
+            "sanitation-001": 0,
+            "structures-001": 24,
+            "structures-002": 82,
+            "structures-003": 6280,
+            "villesafricaines-001": 46,
+            "villesafricaines-002": 0
+        },
+        {
+            "geomatique-002": 7,
+            "item": "2014-09-15",
+            "microcontroleurs-002": 15
+        },
+        {
+            "intro-java-fr-001": 136,
+            "item": "2014-09-18"
+        },
+        {
+            "analysenumerique-002": 352,
+            "cpp-fr-001": 141,
+            "dsp-004": 495,
+            "geomatique-002": 10,
+            "initprogcpp-001": 14808,
+            "initprogjava-001": 16008,
+            "intro-cpp-fr-001": 155,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-09-21",
+            "linearopt-001": 28,
+            "linearopt-002": 640,
+            "mecanique-001": 40,
+            "mecanique-002": 20,
+            "mecanique-003": 2461,
+            "microcontroleurs-002": 45,
+            "microcontroleurs-003": 184,
+            "progfun-002": 215,
+            "progfun-003": 517,
+            "progfun-004": 3049,
+            "progfun-005": 77295,
+            "progfun-2012-001": 206,
+            "reactive-001": 2582,
+            "sanitation-001": 0,
+            "structures-001": 10,
+            "structures-003": 4037,
+            "villesafricaines-001": 36,
+            "villesafricaines-002": 0
+        },
+        {
+            "item": "2014-09-22",
+            "structures-002": 13
+        },
+        {
+            "intro-java-fr-001": 98,
+            "item": "2014-09-23"
+        },
+        {
+            "item": "2014-09-27",
+            "java-fr-2013-001": 122
+        },
+        {
+            "analysenumerique-002": 413,
+            "geomatique-002": 7,
+            "initprogcpp-001": 10998,
+            "initprogjava-001": 14360,
+            "intro-java-fr-001": 216,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-09-28",
+            "java-fr-2013-001": 158,
+            "linearopt-001": 62,
+            "linearopt-002": 774,
+            "mecanique-001": 61,
+            "mecanique-002": 7,
+            "mecanique-003": 2214,
+            "microcontroleurs-002": 63,
+            "microcontroleurs-003": 183,
+            "progfun-002": 191,
+            "progfun-003": 398,
+            "progfun-004": 2377,
+            "progfun-005": 60759,
+            "progfun-2012-001": 265,
+            "reactive-001": 2429,
+            "sanitation-001": 0,
+            "structures-001": 23,
+            "structures-002": 15,
+            "structures-003": 4416,
+            "villesafricaines-001": 86,
+            "villesafricaines-002": 0
+        },
+        {
+            "cpp-fr-001": 87,
+            "dsp-004": 575,
+            "item": "2014-09-29"
+        },
+        {
+            "intro-cpp-fr-001": 105,
+            "item": "2014-09-30"
+        },
+        {
+            "analysenumerique-002": 81,
+            "cpp-fr-001": 35,
+            "dsp-004": 169,
+            "initprogcpp-001": 2032,
+            "initprogjava-001": 3079,
+            "intro-cpp-fr-001": 59,
+            "intro-java-fr-001": 39,
+            "intropoocpp-001": 0,
+            "intropoojava-001": 0,
+            "item": "2014-10-05",
+            "java-fr-2013-001": 10,
+            "linearopt-001": 4,
+            "linearopt-002": 214,
+            "mecanique-001": 13,
+            "mecanique-002": 2,
+            "mecanique-003": 653,
+            "microcontroleurs-002": 3,
+            "microcontroleurs-003": 121,
+            "progfun-002": 34,
+            "progfun-003": 72,
+            "progfun-004": 474,
+            "progfun-005": 14461,
+            "progfun-2012-001": 15,
+            "reactive-001": 494,
+            "sanitation-001": 0,
+            "structures-001": 8,
+            "structures-002": 1,
+            "structures-003": 1040,
+            "villesafricaines-001": 1,
+            "villesafricaines-002": 0
+        }
+    ],
+    "graphs": [
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "analysenumerique-001",
+            "valueField": "analysenumerique-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "analysenumerique-002",
+            "valueField": "analysenumerique-002"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "cpp-fr-001",
+            "valueField": "cpp-fr-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "dsp-001",
+            "valueField": "dsp-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "dsp-002",
+            "valueField": "dsp-002"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "dsp-004",
+            "valueField": "dsp-004"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "geomatique-002",
+            "valueField": "geomatique-002"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "hwts-001",
+            "valueField": "hwts-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "initprogcpp-001",
+            "valueField": "initprogcpp-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "initprogjava-001",
+            "valueField": "initprogjava-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "intro-cpp-fr-001",
+            "valueField": "intro-cpp-fr-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "intro-java-fr-001",
+            "valueField": "intro-java-fr-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "intropoocpp-001",
+            "valueField": "intropoocpp-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "intropoojava-001",
+            "valueField": "intropoojava-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "java-fr-2013-001",
+            "valueField": "java-fr-2013-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "linearopt-001",
+            "valueField": "linearopt-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "linearopt-002",
+            "valueField": "linearopt-002"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "mecanique-001",
+            "valueField": "mecanique-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "mecanique-002",
+            "valueField": "mecanique-002"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "mecanique-003",
+            "valueField": "mecanique-003"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "microcontroleurs-002",
+            "valueField": "microcontroleurs-002"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "microcontroleurs-003",
+            "valueField": "microcontroleurs-003"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "progfun-002",
+            "valueField": "progfun-002"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "progfun-003",
+            "valueField": "progfun-003"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "progfun-004",
+            "valueField": "progfun-004"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "progfun-005",
+            "valueField": "progfun-005"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "progfun-2012-001",
+            "valueField": "progfun-2012-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "reactive-001",
+            "valueField": "reactive-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "sanitation-001",
+            "valueField": "sanitation-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "structures-001",
+            "valueField": "structures-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "structures-002",
+            "valueField": "structures-002"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "structures-003",
+            "valueField": "structures-003"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "villesafricaines-001",
+            "valueField": "villesafricaines-001"
+        },
+        {
+            "balloonText": "<span style='font-size:10px; color:#000000;'><b>[[title]]: [[value]]</b></span>",
+            "fillAlphas": 0.6,
+            "lineAlpha": 0.4,
+            "title": "villesafricaines-002",
+            "valueField": "villesafricaines-002"
+        }
+    ],
+    "legend": {
+        "equalWidths": "false",
+        "periodValueText": "total: [[value.sum]]",
+        "position": "top",
+        "valueAlign": "left",
+        "valueWidth": 100
+    },
+    "marginBottom": 0,
+    "marginLeft": 0,
+    "marginTop": 10,
+    "pathToImages": "http://www.amcharts.com/lib/3/images/",
+    "plotAreaBorderAlpha": 0,
+    "theme": "none",
+    "type": "serial",
+    "valueAxes": [
+        {
+            "gridAlpha": 0.07,
+            "position": "left",
+            "stackType": "regular",
+            "title": "Lecture view Total"
+        }
+    ]
+}
