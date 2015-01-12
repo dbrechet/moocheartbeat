@@ -317,7 +317,7 @@ htmlmessage = """
 <!DOCTYPE html>
 <html>
     <head>
-        <title>18 uniqueregsum_activity_xy| amCharts</title>
+        <title>Iter 07: 18, uniqueregsum_activity_xy| amCharts</title>
         <meta name="description" content="chart created using amCharts live editor" />
 
         <!-- amCharts javascript sources -->
@@ -331,6 +331,7 @@ htmlmessage = """
         <link rel="stylesheet" type="text/css" href="mhb-css/AMChart.css" media="screen" />
     </head>
     <body>
+        <a href="index.html">Back</a>
         <div id="chartdiv"></div>
     </body>
 </html>

@@ -262,7 +262,7 @@ for row_session in rows_session:
     <!DOCTYPE html>
     <html>
 	   <head>
-            <title>uniqueregsum_activity_xy """+data_session+""" | amCharts</title>
+            <title>Iter 05: 14, uniqueregsum_activity_xy """+data_session+""" | amCharts</title>
             <meta name="description" content="chart created using amCharts" />
 
             <!-- amCharts javascript sources -->
@@ -276,7 +276,8 @@ for row_session in rows_session:
             <link rel="stylesheet" type="text/css" href="mhb-css/AMChart.css" media="screen" />
         </head>
 	   <body>
-		  <div id="chartdiv"></div>
+		  <a href="index.html">Back</a>
+          <div id="chartdiv"></div>
 	   </body>
        </html>
     """

@@ -222,7 +222,7 @@ htmlmessage = """
     <!DOCTYPE html>
     <html>
 	   <head>
-            <title>Courses Ratio | amCharts</title>
+            <title>Iter 03: 05, Courses Ratio | amCharts</title>
             <meta name="description" content="chart created using amCharts live editor" />
 
             <!-- amCharts javascript sources -->
@@ -236,7 +236,8 @@ htmlmessage = """
             <link rel="stylesheet" type="text/css" href="mhb-css/AMChart.css" media="screen" />
         </head>
 	   <body>
-		  <div id="chartdiv"></div>
+		  <a href="index.html">Back</a>
+          <div id="chartdiv"></div>
 	   </body>
        </html>
     """
